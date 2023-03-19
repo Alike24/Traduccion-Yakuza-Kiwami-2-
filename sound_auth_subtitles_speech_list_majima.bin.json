@@ -1,0 +1,4860 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 298,
+  "COLUMN_COUNT": 6,
+  "TEXT_COUNT": 270,
+  "ROW_VALIDATOR": -1,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": false,
+  "HAS_COLUMN_NAMES": false,
+  "HAS_ROW_VALIDITY": false,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": false,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "0": "0",
+    "1": "1",
+    "2": "1",
+    "3": "0",
+    "4": "1",
+    "5": "0"
+  },
+  "columnTypes": {
+    "0": -1,
+    "1": 1,
+    "2": 0,
+    "3": -1,
+    "4": 0,
+    "5": -1
+  },
+  "columnTypes2": {
+    "0": -1,
+    "1": 1,
+    "2": 2,
+    "3": -1,
+    "4": 12,
+    "5": -1
+  },
+  "0": {
+    "": {
+      "1": 1644,
+      "2": 1,
+      "4": "Dicho todo esto... Veamos los ingresos totales\r\nproducidos por cada familia para el clan."
+    }
+  },
+  "1": {
+    "": {
+      "1": 1644,
+      "2": 2,
+      "4": "...Ibuchi."
+    }
+  },
+  "2": {
+    "": {
+      "1": 1563,
+      "2": 1,
+      "4": "Sí, señor.\r\nPor favor, dirijan su atención a la pantalla."
+    }
+  },
+  "3": {
+    "": {
+      "1": 1646,
+      "2": 1,
+      "4": "Qué demonios..."
+    }
+  },
+  "4": {
+    "": {
+      "1": 1565,
+      "2": 1,
+      "4": "De ninguna manera..."
+    }
+  },
+  "5": {
+    "": {
+      "1": 1564,
+      "2": 1,
+      "4": "¿Es realmente tan grande la brecha?"
+    }
+  },
+  "6": {
+    "": {
+      "1": 1563,
+      "2": 2,
+      "4": "Como pueden ver, las familias de la vieja guardia del Clan Tojo\r\ntienen más o menos los mismos márgenes en todos los ámbitos."
+    }
+  },
+  "7": {
+    "": {
+      "1": 1563,
+      "2": 3,
+      "4": "Bueno, la familia Kazama de Kashiwagi-san\r\nparece estar haciendo un esfuerzo..."
+    }
+  },
+  "8": {
+    "": {
+      "1": 1563,
+      "2": 4,
+      "4": "Aun así, incluso la Familia Kazama queda por detrás de dos grupos\r\nque le doblan con creces en puntuación."
+    }
+  },
+  "9": {
+    "": {
+      "1": 1563,
+      "2": 5,
+      "4": "Serían mi familia Ibuchi y\r\nla familia Uematsu de Uematsu-san, por supuesto."
+    }
+  },
+  "10": {
+    "": {
+      "1": 1563,
+      "2": 6,
+      "4": "Los mismos \"recien llegados\" que tanto\r\ndesprecias, ¿verdad?"
+    }
+  },
+  "11": {
+    "": {
+      "1": 1563,
+      "2": 7,
+      "4": "Si nos guiamos por los números, Uematsu es claramente el primero.\r\nAsí que parece... Uematsu-san es nuestro próximo capitán de clan."
+    }
+  },
+  "12": {
+    "": {
+      "1": 1646,
+      "2": 2,
+      "4": "Y una mierda!"
+    }
+  },
+  "13": {
+    "": {
+      "1": 1646,
+      "2": 3,
+      "4": "¡Sólo sacas números así porque\r\ntienes las manos en asuntos sucios!"
+    }
+  },
+  "14": {
+    "": {
+      "1": 1565,
+      "2": 2,
+      "4": "n el Clan Tojo, realmente tenemos ética."
+    }
+  },
+  "15": {
+    "": {
+      "1": 1565,
+      "2": 3,
+      "4": "Incluso si el quinto presidente aprueba esto...\r\n¡Yo nunca lo haré!"
+    }
+  },
+  "16": {
+    "": {
+      "1": 1564,
+      "2": 2,
+      "4": "¿Estás tan cegado por los beneficios que\r\nhas perdido el espíritu yakuza?"
+    }
+  },
+  "17": {
+    "": {
+      "1": 1645,
+      "2": 1,
+      "4": "¡Todos ustedes, maricas, pueden cerrar la boca!"
+    }
+  },
+  "18": {
+    "": {
+      "1": 1645,
+      "2": 2,
+      "4": "Te quejas...\r\n¡Pero nosotros somos la razón por la que tienes comida en la mesa!"
+    }
+  },
+  "19": {
+    "": {
+      "1": 1645,
+      "2": 3,
+      "4": "No nos rompemos el culo por caridad."
+    }
+  },
+  "20": {
+    "": {
+      "1": 1645,
+      "2": 4,
+      "4": "Es justo que obtengamos rangos acordes\r\ncon nuestra contribución al clan."
+    }
+  },
+  "21": {
+    "": {
+      "1": 1645,
+      "2": 5,
+      "4": "Si tienes algún problema con eso...\r\n¡Intenta hacer tanto como nosotros!"
+    }
+  },
+  "22": {
+    "": {
+      "1": 1563,
+      "2": 8,
+      "4": "Parece que no hay más objeciones."
+    }
+  },
+  "23": {
+    "": {
+      "1": 1563,
+      "2": 9,
+      "4": "Entonces nuestro próximo capitán de clan es\r\nUematsu-san de la Familia Uematsu."
+    }
+  },
+  "24": {
+    "": {
+      "1": 1644,
+      "2": 3,
+      "4": "Mm."
+    }
+  },
+  "25": {
+    "": {
+      "1": 1644,
+      "2": 4,
+      "4": "Huh?"
+    }
+  },
+  "26": {
+    "": {
+      "1": 1566,
+      "2": 1,
+      "4": "¿Cómo? ¿Cómo has conseguido tanto!?"
+    }
+  },
+  "27": {
+    "": {
+      "1": 1567,
+      "2": 1,
+      "4": "[NOT USED]"
+    }
+  },
+  "28": {
+    "": {
+      "1": 1567,
+      "2": 2,
+      "4": "Verás, tenía ganas de jugar al béisbol..."
+    }
+  },
+  "29": {
+    "": {
+      "1": 1567,
+      "2": 3,
+      "4": "Así que intercambie algo de dinero a cambio de una\r\npequeeeeña parcela de tierra cerca de Kamurocho."
+    }
+  },
+  "30": {
+    "": {
+      "1": 1567,
+      "2": 4,
+      "4": "Lo siguiente que sé, es que algún negocio se abalanza\r\npidiendo comprar ese terreno para construir en él o algo así."
+    }
+  },
+  "31": {
+    "": {
+      "1": 1567,
+      "2": 5,
+      "4": "Así que le puse un precio de locura, y de alguna\r\nmanera terminé con un barril lleno de dinero."
+    }
+  },
+  "32": {
+    "": {
+      "1": 1567,
+      "2": 6,
+      "4": "[NOT USED]"
+    }
+  },
+  "33": {
+    "": {
+      "1": 1567,
+      "2": 7,
+      "4": "¿Qué puedo decir?\r\nEl dinero viene fácil cuando me esfuerzo un poco."
+    }
+  },
+  "34": {
+    "": {
+      "1": 1567,
+      "2": 8,
+      "4": "[NOT USED]"
+    }
+  },
+  "35": {
+    "": {
+      "1": 1567,
+      "2": 9,
+      "4": "Pero maldición... Si nos basamos sólo en los beneficios,\r\n¡Tu próximo capitán de clan seré <font_kind=yakuza_italic>yo!</font_kind>"
+    }
+  },
+  "36": {
+    "": {
+      "1": 1567,
+      "2": 10,
+      "4": "Eres el quinto presidente, aunque...\r\nEl criterio depende totalmente de ti."
+    }
+  },
+  "37": {
+    "": {
+      "1": 1567,
+      "2": 11,
+      "4": "Todo lo que digo es... Subestima al Clan Tojo,\r\ny su perro te morderá."
+    }
+  },
+  "38": {
+    "": {
+      "1": 1647,
+      "2": 2
+    }
+  },
+  "39": {
+    "": {
+      "1": 1566,
+      "2": 2,
+      "4": "Quinto Presidente... ¿Qué opinas?"
+    }
+  },
+  "40": {
+    "": {
+      "1": 1647,
+      "2": 3,
+      "4": "Dejemos el tema por ahora."
+    }
+  },
+  "41": {
+    "": {
+      "1": 1647,
+      "2": 4,
+      "4": "Revisaremos la política en nuestra próxima reunión ejecutiva."
+    }
+  },
+  "42": {
+    "": {
+      "1": 1567,
+      "2": 12,
+      "4": "¿Qué pasa?\r\n¡Este asiento es tan rígido como los otros!"
+    }
+  },
+  "43": {
+    "": {
+      "1": 1648,
+      "2": 2
+    }
+  },
+  "44": {
+    "": {
+      "1": 1568,
+      "2": 1,
+      "4": "¿Qué crees que va a pasar\r\ncon el Clan Tojo?"
+    }
+  },
+  "45": {
+    "": {
+      "1": 1569,
+      "2": 1,
+      "4": "Ehh?"
+    }
+  },
+  "46": {
+    "": {
+      "1": 1568,
+      "2": 2,
+      "4": "No, es sólo\r\nque toda esta charla sobre una reforma del Clan Tojo..."
+    }
+  },
+  "47": {
+    "": {
+      "1": 1568,
+      "2": 3,
+      "4": "¿Es realmente prudente dejar que el dinero\r\nsea el factor decisivo en todo?"
+    }
+  },
+  "48": {
+    "": {
+      "1": 1568,
+      "2": 4,
+      "4": "Y esos tipos Uematsu-san e Ibuchi-san...\r\n¿Crees que puedes confiar en ellos?"
+    }
+  },
+  "49": {
+    "": {
+      "1": 1569,
+      "2": 2,
+      "4": "No es nada por lo que un chico nuevo\r\ncomo tú deba estresarse"
+    }
+  },
+  "50": {
+    "": {
+      "1": 1568,
+      "2": 5,
+      "4": "T-Tienes razón... Lo siento."
+    }
+  },
+  "51": {
+    "": {
+      "1": 1569,
+      "2": 3,
+      "4": "No importa.\r\nTerada es el quinto presidente."
+    }
+  },
+  "52": {
+    "": {
+      "1": 1569,
+      "2": 4,
+      "4": "No importa.\r\nTerada es el quinto presidente."
+    }
+  },
+  "53": {
+    "": {
+      "1": 1569,
+      "2": 5,
+      "4": "Si dice que algo es negro, es negro.\r\nSi dice que es blanco, es blanco."
+    }
+  },
+  "54": {
+    "": {
+      "1": 1569,
+      "2": 6,
+      "4": "Si dice que algo es negro, es negro.\r\nSi dice que es blanco, es blanco."
+    }
+  },
+  "55": {
+    "": {
+      "1": 1569,
+      "2": 7,
+      "4": "Ese es el mundo al que te apuntas como yakuza."
+    }
+  },
+  "56": {
+    "": {
+      "1": 1569,
+      "2": 8,
+      "4": "Ese es el mundo al que te apuntas como yakuza."
+    }
+  },
+  "57": {
+    "": {
+      "1": 1569,
+      "2": 9,
+      "4": "Mientras confíe en ellos...\r\nQue así sea."
+    }
+  },
+  "58": {
+    "": {
+      "1": 1569,
+      "2": 10,
+      "4": "Mientras confíe en ellos...\r\nQue así sea."
+    }
+  },
+  "59": {
+    "": {
+      "1": 1569,
+      "2": 11,
+      "4": "Pero yo digo que los dos son turbios de cojones.\r\nNo soy un gran fan de ninguno de ellos."
+    }
+  },
+  "60": {
+    "": {
+      "1": 1569,
+      "2": 12,
+      "4": "Pero yo digo que los dos son turbios de cojones.\r\nNo soy un gran fan de ninguno de ellos."
+    }
+  },
+  "61": {
+    "": {
+      "1": 1568,
+      "2": 6,
+      "4": "Estoy de acuerdo...\r\nCreo que serías un buen capitán de clan, jefe."
+    }
+  },
+  "62": {
+    "": {
+      "1": 1569,
+      "2": 13,
+      "4": "De ninguna manera voy a tomar el asiento del capitán."
+    }
+  },
+  "63": {
+    "": {
+      "1": 1569,
+      "2": 14,
+      "4": "De ninguna manera voy a tomar el asiento del capitán."
+    }
+  },
+  "64": {
+    "": {
+      "1": 1568,
+      "2": 7,
+      "4": "¿No? ¿No lo harías?"
+    }
+  },
+  "65": {
+    "": {
+      "1": 1569,
+      "2": 15,
+      "4": "¡Diablos, no!\r\n¡No duraría ni un día con un estafador como Terada!"
+    }
+  },
+  "66": {
+    "": {
+      "1": 1569,
+      "2": 16,
+      "4": "¡Diablos, no!\r\n¡No duraría ni un día con un estafador como Terada!"
+    }
+  },
+  "67": {
+    "": {
+      "1": 1569,
+      "2": 17,
+      "4": "Terada probablemente quiere a Uematsu,\r\nuno de sus chicos."
+    }
+  },
+  "68": {
+    "": {
+      "1": 1569,
+      "2": 18,
+      "4": "Esta mierda de la Reforma del Clan Tojo es sólo una excusa para\r\nponer a su propio equipo en puestos ejecutivos."
+    }
+  },
+  "69": {
+    "": {
+      "1": 1568,
+      "2": 8,
+      "4": "¿Estás diciendo que está amañado?"
+    }
+  },
+  "70": {
+    "": {
+      "1": 1569,
+      "2": 19,
+      "4": "Bueno, más o menos."
+    }
+  },
+  "71": {
+    "": {
+      "1": 1569,
+      "2": 20,
+      "4": "La Yakuza de hoy en día\r\nse anda demasiado por las ramas..."
+    }
+  },
+  "72": {
+    "": {
+      "1": 1569,
+      "2": 21,
+      "4": "O tal vez solo estoy envejeciendo\r\ncon esta cosa de la yakuza..."
+    }
+  },
+  "73": {
+    "": {
+      "1": 1569,
+      "2": 22,
+      "4": "O tal vez solo estoy envejeciendo\r\ncon esta cosa de la yakuza..."
+    }
+  },
+  "74": {
+    "": {
+      "1": 1568,
+      "2": 9,
+      "4": "De ninguna manera jefe, ¡eres demasiado joven para eso!"
+    }
+  },
+  "75": {
+    "": {
+      "1": 1569,
+      "2": 23,
+      "4": "¿Quién demonios eres tú para decirlo?"
+    }
+  },
+  "76": {
+    "": {
+      "1": 1569,
+      "2": 24,
+      "4": "¡Ahora deja de ser un maldito charlatán\r\ny acelera!"
+    }
+  },
+  "77": {
+    "": {
+      "1": 1568,
+      "2": 10,
+      "4": "S-Si, señor!"
+    }
+  },
+  "78": {
+    "": {
+      "1": 1570,
+      "2": 1,
+      "4": "Huh?"
+    }
+  },
+  "79": {
+    "": {
+      "1": 1570,
+      "2": 2,
+      "4": "¿Quién demonios eres?"
+    }
+  },
+  "80": {
+    "": {
+      "1": 1570,
+      "2": 3,
+      "4": "Ahh, ¿algunos de los matones de Uematsu?"
+    }
+  },
+  "81": {
+    "": {
+        "1": 1570,
+        "2": 4,
+        "4": "El trabaja rápido, ¿verdad? Eso está bien.\r\n¡Adelante!"
+    }
+  },
+  "82": {
+    "": {
+      "1": 1571,
+      "2": 1,
+      "4": "Tontos... ¿¡Sois sus chicos o no!?"
+    }
+  },
+  "83": {
+    "": {
+      "1": 1649,
+      "2": 1,
+      "4": "Jejeje... En realidad..."
+    }
+  },
+  "84": {
+    "": {
+      "1": 1649,
+      "2": 2,
+      "4": "¡Deberías estar más preocupado\r\npor tu propia familia!"
+    }
+  },
+  "85": {
+    "": {
+      "1": 1571,
+      "2": 2,
+      "4": "¿Mi familia? ¿Eso es una amenaza?\r\n¡Tengo que ir a la oficina!"
+    }
+  },
+  "86": {
+    "": {
+      "1": 1572,
+      "2": 1,
+      "4": "This incident we have...\r\nCare to explain yourself, Majima-san?"
+    }
+  },
+  "87": {
+    "": {
+      "1": 1573,
+      "2": 1,
+      "4": "Nothin' to explain, actually."
+    }
+  },
+  "88": {
+    "": {
+      "1": 1573,
+      "2": 2,
+      "4": "I went in and found Uematsu dead.\r\nAll there is to it."
+    }
+  },
+  "89": {
+    "": {
+      "1": 1572,
+      "2": 2,
+      "4": "Majima-san and Uematsu were rivals for\r\nthe clan captain's seat."
+    }
+  },
+  "90": {
+    "": {
+      "1": 1572,
+      "2": 3,
+      "4": "And it's purely coincidence, then,\r\nthat Majima-san discovered his corpse?"
+    }
+  },
+  "91": {
+    "": {
+      "1": 1573,
+      "2": 3,
+      "4": "Somethin' you're gettin' at?\r\nIf ya got somethin' to say, spit it out."
+    }
+  },
+  "92": {
+    "": {
+      "1": 1572,
+      "2": 4,
+      "4": "I'm saying that Uematsu's death...\r\nWas probably by your own hand!"
+    }
+  },
+  "93": {
+    "": {
+      "1": 1659,
+      "2": 1,
+      "4": "Enough with the absurd speculation!"
+    }
+  },
+  "94": {
+    "": {
+      "1": 1659,
+      "2": 2,
+      "4": "What proof do you have that Majima did it!?"
+    }
+  },
+  "95": {
+    "": {
+      "1": 1572,
+      "2": 5,
+      "4": "None, at the moment.\r\nBut I'm sure it's only a matter of time until I do."
+    }
+  },
+  "96": {
+    "": {
+      "1": 1572,
+      "2": 6,
+      "4": "Uematsu was Majima-san's only obstacle\r\nfor the captain's chair."
+    }
+  },
+  "97": {
+    "": {
+      "1": 1572,
+      "2": 7,
+      "4": "He has a clear motive for the murder."
+    }
+  },
+  "98": {
+    "": {
+      "1": 1572,
+      "2": 8,
+      "4": "They call Majima-san the \"mad dog\" for a reason...\r\nI wouldn't put it past him."
+    }
+  },
+  "99": {
+    "": {
+      "1": 1659,
+      "2": 3
+    }
+  },
+  "100": {
+    "": {
+      "1": 1572,
+      "2": 9,
+      "4": "Shall we end this charade?\r\nIt's tough to watch the old guard stumble to cover for each other."
+    }
+  },
+  "101": {
+    "": {
+      "1": 1659,
+      "2": 4,
+      "4": "You son of a...!"
+    }
+  },
+  "102": {
+    "": {
+      "1": 1573,
+      "2": 4,
+      "4": "Kashiwagi-san! It's cool."
+    }
+  },
+  "103": {
+    "": {
+      "1": 1659,
+      "2": 5,
+      "4": "Majima..."
+    }
+  },
+  "104": {
+    "": {
+      "1": 1573,
+      "2": 5,
+      "4": "I get real tired real quick\r\nof guys who talk in circles..."
+    }
+  },
+  "105": {
+    "": {
+      "1": 1573,
+      "2": 6,
+      "4": "So I think I'm gonna bail on this\r\nstupid little tea party of yours."
+    }
+  },
+  "106": {
+    "": {
+      "1": 1573,
+      "2": 7,
+      "4": "You gonna stop yappin' if I bring ya\r\nthe head of Uematsu's killer?"
+    }
+  },
+  "107": {
+    "": {
+      "1": 1572,
+      "2": 10,
+      "4": "Yes, of course.\r\nIf you can, that is."
+    }
+  },
+  "108": {
+    "": {
+      "1": 1660,
+      "2": 1,
+      "4": "Yo. I knew you'd come, Goro Majima."
+    }
+  },
+  "109": {
+    "": {
+      "1": 1574,
+      "2": 1,
+      "4": "Oh yeah? Nothin' gets past you, eh?"
+    }
+  },
+  "110": {
+    "": {
+      "1": 1574,
+      "2": 2,
+      "4": "That business 'bout you bein' a legendary\r\ninformant's true, I take it."
+    }
+  },
+  "111": {
+    "": {
+      "1": 1660,
+      "2": 2,
+      "4": "If I couldn't keep tabs on a\r\nguy who dresses like you..."
+    }
+  },
+  "112": {
+    "": {
+      "1": 1660,
+      "2": 3,
+      "4": "I'd have no business doing what I do here."
+    }
+  },
+  "113": {
+    "": {
+      "1": 1660,
+      "2": 4,
+      "4": "All the same, I'll ask.\r\nWhat are you here to find out?"
+    }
+  },
+  "114": {
+    "": {
+      "1": 1574,
+      "2": 3,
+      "4": "The truth behind this whole mess, of course."
+    }
+  },
+  "115": {
+    "": {
+      "1": 1574,
+      "2": 4,
+      "4": "If I'm bein' set up by some schemin' asshole..."
+    }
+  },
+  "116": {
+    "": {
+      "1": 1574,
+      "2": 5,
+      "4": "If I'm bein' set up by some schemin' asshole..."
+    }
+  },
+  "117": {
+    "": {
+      "1": 1574,
+      "2": 6,
+      "4": "Then I'm not chillin' out 'til\r\nI find and crush the fool."
+    }
+  },
+  "118": {
+    "": {
+      "1": 1660,
+      "2": 5,
+      "4": "Considering how hot this is...\r\nThe details won't come cheap."
+    }
+  },
+  "119": {
+    "": {
+      "1": 1574,
+      "2": 7,
+      "4": "All good. For once, I've got a barrel fulla cash.\r\nHow much?"
+    }
+  },
+  "120": {
+    "": {
+      "1": 1660,
+      "2": 6,
+      "4": "Nope. I'm not taking cash on this one."
+    }
+  },
+  "121": {
+    "": {
+      "1": 1660,
+      "2": 7,
+      "4": "I'll sell you this in exchange for a single favor.\r\nHow's that sound?"
+    }
+  },
+  "122": {
+    "": {
+      "1": 1574,
+      "2": 8,
+      "4": "Hm. Kinda depends on the favor."
+    }
+  },
+  "123": {
+    "": {
+      "1": 1660,
+      "2": 8,
+      "4": "I used to run this place called Purgatory\r\nbefore I came up here."
+    }
+  },
+  "124": {
+    "": {
+      "1": 1660,
+      "2": 9,
+      "4": "I want you to take over operations."
+    }
+  },
+  "125": {
+    "": {
+      "1": 1574,
+      "2": 9,
+      "4": "Purgatory...?"
+    }
+  },
+  "126": {
+    "": {
+      "1": 1660,
+      "2": 10,
+      "4": "You enter from a bathroom in West Park.\r\nIt's like an underground city."
+    }
+  },
+  "127": {
+    "": {
+      "1": 1660,
+      "2": 11,
+      "4": "I used to have my \"office\" down there."
+    }
+  },
+  "128": {
+    "": {
+      "1": 1660,
+      "2": 12,
+      "4": "It's got anything you could desire.\r\nFrom gambling to an underground fighting ring."
+    }
+  },
+  "129": {
+    "": {
+      "1": 1574,
+      "2": 10,
+      "4": "Hoho... Now you're speakin' my language."
+    }
+  },
+  "130": {
+    "": {
+      "1": 1660,
+      "2": 13,
+      "4": "Well... It's been getting neglected,\r\nfor obvious reasons."
+    }
+  },
+  "131": {
+    "": {
+      "1": 1660,
+      "2": 14,
+      "4": "I want someone I can trust to take care of it."
+    }
+  },
+  "132": {
+    "": {
+      "1": 1574,
+      "2": 11,
+      "4": "I ain't the kinda guy you can trust."
+    }
+  },
+  "133": {
+    "": {
+      "1": 1574,
+      "2": 12,
+      "4": "I ain't the kinda guy you can trust."
+    }
+  },
+  "134": {
+    "": {
+      "1": 1660,
+      "2": 15,
+      "4": "Who I can trust or not is my call to make...\r\nNot yours."
+    }
+  },
+  "135": {
+    "": {
+      "1": 1660,
+      "2": 16,
+      "4": "So? Are my terms agreeable?"
+    }
+  },
+  "136": {
+    "": {
+      "1": 1574,
+      "2": 13,
+      "4": "Heh, fine, long as this ends with punchin'."
+    }
+  },
+  "137": {
+    "": {
+      "1": 1574,
+      "2": 14,
+      "4": "Heh, fine, long as this ends with punchin'."
+    }
+  },
+  "138": {
+    "": {
+      "1": 1574,
+      "2": 15,
+      "4": "Takin' care of a few layers of\r\nPurgatory won't slow me down."
+    }
+  },
+  "139": {
+    "": {
+      "1": 1574,
+      "2": 16,
+      "4": "Takin' care of a few layers of\r\nPurgatory won't slow me down."
+    }
+  },
+  "140": {
+    "": {
+      "1": 1660,
+      "2": 17,
+      "4": "I'd say we have a deal, then."
+    }
+  },
+  "141": {
+    "": {
+      "1": 1574,
+      "2": 17,
+      "4": "Whoa, what the!?"
+    }
+  },
+  "142": {
+    "": {
+      "1": 1660,
+      "2": 18,
+      "4": "It's all in the job. My intersection on the\r\ninformation super highway of Kamurocho."
+    }
+  },
+  "143": {
+    "": {
+      "1": 1660,
+      "2": 19,
+      "4": "Now, let's pull up Uematsu's untimely demise."
+    }
+  },
+  "144": {
+    "": {
+      "1": 1660,
+      "2": 20,
+      "4": "Give that monitor a look."
+    }
+  },
+  "145": {
+    "": {
+      "1": 1574,
+      "2": 18,
+      "4": "Wait a minute, that's me!"
+    }
+  },
+  "146": {
+    "": {
+      "1": 1574,
+      "2": 19,
+      "4": "Wait a minute, that's me!"
+    }
+  },
+  "147": {
+    "": {
+      "1": 1660,
+      "2": 21,
+      "4": "Yeah. Let's start from where you\r\nraided the Uematsu office."
+    }
+  },
+  "148": {
+    "": {
+      "1": 1660,
+      "2": 22,
+      "4": "And if we rewind a bit..."
+    }
+  },
+  "149": {
+    "": {
+      "1": 1574,
+      "2": 20,
+      "4": "That's... Kawamura!?"
+    }
+  },
+  "150": {
+    "": {
+      "1": 1574,
+      "2": 21,
+      "4": "Why would he..!?"
+    }
+  },
+  "151": {
+    "": {
+      "1": 1660,
+      "2": 23,
+      "4": "Who knows?\r\nYou'll have to ask him yourself."
+    }
+  },
+  "152": {
+    "": {
+      "1": 1660,
+      "2": 24,
+      "4": "Not like I can record what's in someone's head."
+    }
+  },
+  "153": {
+    "": {
+      "1": 1660,
+      "2": 25,
+      "4": "Where you headed?"
+    }
+  },
+  "154": {
+    "": {
+      "1": 1574,
+      "2": 22,
+      "4": "My only option! Back to my office!"
+    }
+  },
+  "155": {
+    "": {
+      "1": 1574,
+      "2": 23,
+      "4": "Kawamura has some explainin' to do!"
+    }
+  },
+  "156": {
+    "": {
+      "1": 1660,
+      "2": 26,
+      "4": "Sorry, but he's not in Kamurocho anymore."
+    }
+  },
+  "157": {
+    "": {
+      "1": 1574,
+      "2": 24,
+      "4": "Then where is he!?"
+    }
+  },
+  "158": {
+    "": {
+      "1": 1660,
+      "2": 27,
+      "4": "In Sotenbori."
+    }
+  },
+  "159": {
+    "": {
+      "1": 1574,
+      "2": 25,
+      "4": "Sotenbori...?"
+    }
+  },
+  "160": {
+    "": {
+      "1": 1575,
+      "2": 1,
+      "4": "Back here of all places..."
+    }
+  },
+  "161": {
+    "": {
+      "1": 1576,
+      "2": 1,
+      "4": "It's hardly changed at all..."
+    }
+  },
+  "162": {
+    "": {
+      "1": 1577,
+      "2": 1,
+      "4": "Welcome! Right this way, sir!"
+    }
+  },
+  "163": {
+    "": {
+      "1": 1577,
+      "2": 2,
+      "4": "Which course would you like?"
+    }
+  },
+  "164": {
+    "": {
+      "1": 1576,
+      "2": 2,
+      "4": "Ah, actually, I just have a question for ya."
+    }
+  },
+  "165": {
+    "": {
+      "1": 1576,
+      "2": 3,
+      "4": "I heard this guy was a regular in here..."
+    }
+  },
+  "166": {
+    "": {
+      "1": 1577,
+      "2": 3,
+      "4": "Ohhh! Kawamura-kun, right?"
+    }
+  },
+  "167": {
+    "": {
+      "1": 1577,
+      "2": 4,
+      "4": "I used to do his massages all the time."
+    }
+  },
+  "168": {
+    "": {
+      "1": 1576,
+      "2": 4,
+      "4": "Really!?"
+    }
+  },
+  "169": {
+    "": {
+      "1": 1577,
+      "2": 5,
+      "4": "Yes, although I haven't seen him\r\nhere in a year or so."
+    }
+  },
+  "170": {
+    "": {
+      "1": 1576,
+      "2": 5,
+      "4": "A year, huh?\r\nThat's about the time he joined up with me..."
+    }
+  },
+  "171": {
+    "": {
+      "1": 1576,
+      "2": 6,
+      "4": "Well y'see, he's in a bit of trouble,\r\nso I gotta find him."
+    }
+  },
+  "172": {
+    "": {
+      "1": 1576,
+      "2": 7,
+      "4": "Anything helps!\r\nCan ya tell me when ya saw him last?"
+    }
+  },
+  "173": {
+    "": {
+      "1": 1577,
+      "2": 6,
+      "4": "Hmmm... Oh! Actually..."
+    }
+  },
+  "174": {
+    "": {
+      "1": 1577,
+      "2": 7,
+      "4": "The last day he was in the store,\r\nhe said somethin' strange..."
+    }
+  },
+  "175": {
+    "": {
+      "1": 1576,
+      "2": 8,
+      "4": "Strange, huh?"
+    }
+  },
+  "176": {
+    "": {
+      "1": 1577,
+      "2": 8,
+      "4": "Yes, Kawamura-kun was always\r\nplayin' mahjong upstairs..."
+    }
+  },
+  "177": {
+    "": {
+      "1": 1577,
+      "2": 9,
+      "4": "But on that last day, he was really excited,\r\ntalkin' about being free of his debts..."
+    }
+  },
+  "178": {
+    "": {
+      "1": 1576,
+      "2": 9,
+      "4": "He cleared his debt?"
+    }
+  },
+  "179": {
+    "": {
+      "1": 1577,
+      "2": 10,
+      "4": "Yes, he said he'd met someone who would\r\nshoulder the whole thing..."
+    }
+  },
+  "180": {
+    "": {
+      "1": 1577,
+      "2": 11,
+      "4": "And that he'd be going to Kamurocho with\r\nhim, so he wouldn't be back..."
+    }
+  },
+  "181": {
+    "": {
+      "1": 1576,
+      "2": 10,
+      "4": "So his savior took him out to Kamurocho?"
+    }
+  },
+  "182": {
+    "": {
+      "1": 1577,
+      "2": 12,
+      "4": "I didn't know people even did that kinda thing!\r\nMade me a little jealous."
+    }
+  },
+  "183": {
+    "": {
+      "1": 1576,
+      "2": 11,
+      "4": "Anythin' else come to mind?"
+    }
+  },
+  "184": {
+    "": {
+      "1": 1577,
+      "2": 13,
+      "4": "Hmm... It was pretty long ago...\r\nSorry."
+    }
+  },
+  "185": {
+    "": {
+      "1": 1576,
+      "2": 12,
+      "4": "Nah, you've helped a ton.\r\nThanks, lady!"
+    }
+  },
+  "186": {
+    "": {
+      "1": 1577,
+      "2": 14,
+      "4": "Oh but sir, which course would you like?"
+    }
+  },
+  "187": {
+    "": {
+      "1": 1576,
+      "2": 13,
+      "4": "Huh? Oh, I don't need a massage."
+    }
+  },
+  "188": {
+    "": {
+      "1": 1577,
+      "2": 15,
+      "4": "What!? Won't you get a massage\r\nwhile you're here, sir!?"
+    }
+  },
+  "189": {
+    "": {
+      "1": 1577,
+      "2": 16,
+      "4": "Or did you put me through all that for nothing?"
+    }
+  },
+  "190": {
+    "": {
+      "1": 1577,
+      "2": 17,
+      "4": "After I broke every privacy protection\r\nrule in the book, too!"
+    }
+  },
+  "191": {
+    "": {
+      "1": 1576,
+      "2": 14,
+      "4": "Tch, alright, alright!"
+    }
+  },
+  "192": {
+    "": {
+      "1": 1576,
+      "2": 15,
+      "4": "Gimme the quickest, shortest course ya got."
+    }
+  },
+  "193": {
+    "": {
+      "1": 1577,
+      "2": 18,
+      "4": "Great! The 30 minute course, then!"
+    }
+  },
+  "194": {
+    "": {
+      "1": 1577,
+      "2": 19,
+      "4": "Tateyama-san's the best in our store!\r\nWill she work for you, sir?"
+    }
+  },
+  "195": {
+    "": {
+      "1": 1576,
+      "2": 16,
+      "4": "I don't care either way, so up to you."
+    }
+  },
+  "196": {
+    "": {
+      "1": 1577,
+      "2": 20,
+      "4": "Sure! We'll get set up for you, sir!"
+    }
+  },
+  "197": {
+    "": {
+      "1": 1577,
+      "2": 21,
+      "4": "Please undress and wait here."
+    }
+  },
+  "198": {
+    "": {
+      "1": 1579,
+      "2": 1,
+      "4": "I... Actually, there was a time when\r\nI was blind due to psychological reasons..."
+    }
+  },
+  "199": {
+    "": {
+      "1": 1579,
+      "2": 2,
+      "4": "That was when I met him."
+    }
+  },
+  "200": {
+    "": {
+      "1": 1579,
+      "2": 3,
+      "4": "I was just a stranger caught in a big mess..."
+    }
+  },
+  "201": {
+    "": {
+      "1": 1579,
+      "2": 4,
+      "4": "But he protected me with his life,\r\nnever even telling me his name."
+    }
+  },
+  "202": {
+    "": {
+      "1": 1579,
+      "2": 5,
+      "4": "At the lowest point in my life... \r\nHe pulled me back from the darkness."
+    }
+  },
+  "203": {
+    "": {
+      "1": 1579,
+      "2": 6,
+      "4": "Thanks to him, I even regained my vision."
+    }
+  },
+  "204": {
+    "": {
+      "1": 1579,
+      "2": 7,
+      "4": "I got married, had a child...\r\nI'm always swamped, but life is great."
+    }
+  },
+  "205": {
+    "": {
+      "1": 1579,
+      "2": 8,
+      "4": "Back then, I never would've imagined\r\na future like this was possible for me..."
+    }
+  },
+  "206": {
+    "": {
+      "1": 1579,
+      "2": 9,
+      "4": "I'm... really happy now."
+    }
+  },
+  "207": {
+    "": {
+      "1": 1579,
+      "2": 10,
+      "4": "I'm just so glad I didn't lose hope,\r\nthat I found the will to keep going..."
+    }
+  },
+  "208": {
+    "": {
+      "1": 1579,
+      "2": 11,
+      "4": "But when we parted ways,\r\nI never even got a chance to thank him for that."
+    }
+  },
+  "209": {
+    "": {
+      "1": 1579,
+      "2": 12,
+      "4": "I've regretted it ever since..."
+    }
+  },
+  "210": {
+    "": {
+      "1": 1579,
+      "2": 13,
+      "4": "In fact, that's what led me back to\r\nworking at this massage parlor."
+    }
+  },
+  "211": {
+    "": {
+      "1": 1578,
+      "2": 1
+    }
+  },
+  "212": {
+    "": {
+      "1": 1579,
+      "2": 14,
+      "4": "This is actually where I first met him."
+    }
+  },
+  "213": {
+    "": {
+      "1": 1579,
+      "2": 15,
+      "4": "And Sotenbori is a special town to me,\r\nfull of memories of what time we had..."
+    }
+  },
+  "214": {
+    "": {
+      "1": 1579,
+      "2": 16,
+      "4": "So I thought if I stuck around\r\nand just led my life in these old haunts..."
+    }
+  },
+  "215": {
+    "": {
+      "1": 1579,
+      "2": 17,
+      "4": "Maybe I'd meet him again one more time."
+    }
+  },
+  "216": {
+    "": {
+      "1": 1579,
+      "2": 18,
+      "4": "Meet him, and finally get a\r\nchance to say \"thank you.\""
+    }
+  },
+  "217": {
+    "": {
+      "1": 1578,
+      "2": 2
+    }
+  },
+  "218": {
+    "": {
+      "1": 1579,
+      "2": 19,
+      "4": "Oh dear, I'm so sorry I put you\r\nthrough such a depressing story!"
+    }
+  },
+  "219": {
+    "": {
+      "1": 1579,
+      "2": 20,
+      "4": "Sorry, I'm extra chatty today for some reason."
+    }
+  },
+  "220": {
+    "": {
+      "1": 1579,
+      "2": 21,
+      "4": "Y'know... Not even my husband knows\r\nthat story, so it's our little secret, okay?"
+    }
+  },
+  "221": {
+    "": {
+      "1": 1578,
+      "2": 3,
+      "4": "Heh."
+    }
+  },
+  "222": {
+    "": {
+      "1": 1581,
+      "2": 1,
+      "4": "Kawamura!"
+    }
+  },
+  "223": {
+    "": {
+      "1": 1580,
+      "2": 1,
+      "4": "Boss...?"
+    }
+  },
+  "224": {
+    "": {
+      "1": 1581,
+      "2": 2,
+      "4": "The hell are ya doin'!?"
+    }
+  },
+  "225": {
+    "": {
+      "1": 1580,
+      "2": 2,
+      "4": "I'm sorry..."
+    }
+  },
+  "226": {
+    "": {
+      "1": 1580,
+      "2": 3,
+      "4": "But I didn't have a choice...\r\nIf I didn't kill him, it woulda been me..."
+    }
+  },
+  "227": {
+    "": {
+      "1": 1581,
+      "2": 3,
+      "4": "What do ya mean!?\r\nYou the one who shot Uematsu!?"
+    }
+  },
+  "228": {
+    "": {
+      "1": 1580,
+      "2": 4,
+      "4": "...Yes."
+    }
+  },
+  "229": {
+    "": {
+      "1": 1580,
+      "2": 5,
+      "4": "But there's only one left...\r\nJust one more."
+    }
+  },
+  "230": {
+    "": {
+      "1": 1580,
+      "2": 6,
+      "4": "And when it's done... I'll be free."
+    }
+  },
+  "231": {
+    "": {
+      "1": 1581,
+      "2": 4,
+      "4": "Kawamura... Son of a..."
+    }
+  },
+  "232": {
+    "": {
+      "1": 1580,
+      "2": 7,
+      "4": "If I kill you, boss...\r\nI get out alive."
+    }
+  },
+  "233": {
+    "": {
+      "1": 1580,
+      "2": 8,
+      "4": "I'm really sorry, boss...\r\nBut die, please!"
+    }
+  },
+  "234": {
+    "": {
+      "1": 1582,
+      "2": 1,
+      "4": "Wield both scissors and fools with caution...\r\nAn old one, but still true."
+    }
+  },
+  "235": {
+    "": {
+      "1": 1582,
+      "2": 2,
+      "4": "Shoulder their debts,\r\nand they're clay in your hands."
+    }
+  },
+  "236": {
+    "": {
+      "1": 1582,
+      "2": 3,
+      "4": "A little money, a little violence...\r\nYakuza are truly silly and oh so simple."
+    }
+  },
+  "237": {
+    "": {
+      "1": 1583,
+      "2": 1,
+      "4": "So you're the guy pullin' all the strings, Ibuchi?"
+    }
+  },
+  "238": {
+    "": {
+      "1": 1582,
+      "2": 4,
+      "4": "Heh... Yes. Exactly."
+    }
+  },
+  "239": {
+    "": {
+      "1": 1583,
+      "2": 2,
+      "4": "So... What's your motive?"
+    }
+  },
+  "240": {
+    "": {
+      "1": 1582,
+      "2": 5,
+      "4": "You know what's one of the most illogical and\r\nold-fashioned industries in the world? It's the yakuza."
+    }
+  },
+  "241": {
+    "": {
+      "1": 1582,
+      "2": 6,
+      "4": "A bunch of brainless cretins professing duty and ideals\r\nas they rule in whatever haphazard way they see fit..."
+    }
+  },
+  "242": {
+    "": {
+      "1": 1582,
+      "2": 7,
+      "4": "Really, their methods render the\r\nindustry all-too inefficient..."
+    }
+  },
+  "243": {
+    "": {
+      "1": 1582,
+      "2": 8,
+      "4": "Coming from a consulting background myself,\r\nI decided to do some proper management."
+    }
+  },
+  "244": {
+    "": {
+      "1": 1583,
+      "2": 3,
+      "4": "What the hell?"
+    }
+  },
+  "245": {
+    "": {
+      "1": 1582,
+      "2": 9,
+      "4": "I plan to consolidate the yakuza clans scattered across\r\nthe country and provide some semblance of logic to our underground world..."
+    }
+  },
+  "246": {
+    "": {
+      "1": 1582,
+      "2": 10,
+      "4": "In other words, I'm going to update the yakuza."
+    }
+  },
+  "247": {
+    "": {
+      "1": 1582,
+      "2": 11,
+      "4": "I'll take this musty relic and completely redraw it."
+    }
+  },
+  "248": {
+    "": {
+      "1": 1583,
+      "2": 4,
+      "4": "And you killed Uematsu as part of this dream of yours?"
+    }
+  },
+  "249": {
+    "": {
+      "1": 1582,
+      "2": 12,
+      "4": "Yes, the consolidation of the yakuza."
+    }
+  },
+  "250": {
+    "": {
+      "1": 1582,
+      "2": 13,
+      "4": "As my foothold, I decided the Tojo Clan\r\nwould be simple enough to overthrow."
+    }
+  },
+  "251": {
+    "": {
+      "1": 1582,
+      "2": 14,
+      "4": "I tricked Terada into pushing me through\r\nthe ranks and got rid of those in my way..."
+    }
+  },
+  "252": {
+    "": {
+      "1": 1582,
+      "2": 15,
+      "4": "Including Uematsu... and you."
+    }
+  },
+  "253": {
+    "": {
+      "1": 1582,
+      "2": 16,
+      "4": "Naturally, I'll have to take care of\r\nTerada when the time comes."
+    }
+  },
+  "254": {
+    "": {
+      "1": 1583,
+      "2": 5
+    }
+  },
+  "255": {
+    "": {
+      "1": 1582,
+      "2": 17,
+      "4": "That's how I'll seize the Tojo Clan...\r\nAnd then hand it to the Omi Alliance."
+    }
+  },
+  "256": {
+    "": {
+      "1": 1583,
+      "2": 6,
+      "4": "The Omi!?"
+    }
+  },
+  "257": {
+    "": {
+      "1": 1582,
+      "2": 18,
+      "4": "Yes, if the Omi acquires the Tojo Clan,\r\nit would be the largest yakuza organization in Japan."
+    }
+  },
+  "258": {
+    "": {
+      "1": 1582,
+      "2": 19,
+      "4": "From there, national consolidation is elementary..."
+    }
+  },
+  "259": {
+    "": {
+      "1": 1582,
+      "2": 20,
+      "4": "And I would take on the esteemed post of\r\nreorganizing the underworld into its ideal structure."
+    }
+  },
+  "260": {
+    "": {
+      "1": 1582,
+      "2": 21,
+      "4": "I will create a logical, more modern yakuza world.\r\nOne that isn't swayed by duty or ideals."
+    }
+  },
+  "261": {
+    "": {
+      "1": 1583,
+      "2": 7,
+      "4": "Heh... What a crock."
+    }
+  },
+  "262": {
+    "": {
+      "1": 1582,
+      "2": 22,
+      "4": "I don't expect a man like you\r\nto understand the true value."
+    }
+  },
+  "263": {
+    "": {
+      "1": 1582,
+      "2": 23,
+      "4": "But I'm already in talks with an executive at the Omi Alliance."
+    }
+  },
+  "264": {
+    "": {
+      "1": 1582,
+      "2": 24,
+      "4": "All that's left is to execute it."
+    }
+  },
+  "265": {
+    "": {
+      "1": 1582,
+      "2": 25,
+      "4": "However, to ensure a smooth merger of the\r\nOmi and Tojo... I need an explosive catalyst..."
+    }
+  },
+  "266": {
+    "": {
+      "1": 1582,
+      "2": 26,
+      "4": "And by that... I mean war."
+    }
+  },
+  "267": {
+    "": {
+      "1": 1583,
+      "2": 8
+    }
+  },
+  "268": {
+    "": {
+      "1": 1582,
+      "2": 27,
+      "4": "There's no firmer trigger than the death of\r\nan Omi executive at Tojo Clan hands..."
+    }
+  },
+  "269": {
+    "": {
+      "1": 1582,
+      "2": 28,
+      "4": "Kawamura had very nearly seen that through..."
+    }
+  },
+  "270": {
+    "": {
+      "1": 1582,
+      "2": 29,
+      "4": "But it's a shame that a punk like Kawamura\r\nwould kill you... When I can do it myself."
+    }
+  },
+  "271": {
+    "": {
+      "1": 1650,
+      "2": 1,
+      "4": "Majima-san...\r\nI'm truly sorry about how things unfolded."
+    }
+  },
+  "272": {
+    "": {
+      "1": 1584,
+      "2": 1
+    }
+  },
+  "273": {
+    "": {
+      "1": 1650,
+      "2": 2,
+      "4": "It falls on me for failing\r\nto see Ibuchi's true intentions."
+    }
+  },
+  "274": {
+    "": {
+      "1": 1650,
+      "2": 3,
+      "4": "I'd always known he had something\r\nof a devious side, but..."
+    }
+  },
+  "275": {
+    "": {
+      "1": 1650,
+      "2": 4,
+      "4": "I focused so intently on the numbers,\r\nI lost sight of what cannot be quantified..."
+    }
+  },
+  "276": {
+    "": {
+      "1": 1650,
+      "2": 5,
+      "4": "Perhaps I've been going\r\nabout it the wrong way..."
+    }
+  },
+  "277": {
+    "": {
+      "1": 1584,
+      "2": 2,
+      "4": "The chairman shouldn't admit he's wrong,\r\neven if it's true."
+    }
+  },
+  "278": {
+    "": {
+      "1": 1650,
+      "2": 6,
+      "4": "Hm?"
+    }
+  },
+  "279": {
+    "": {
+      "1": 1584,
+      "2": 3,
+      "4": "...You're the fifth chairman of the Tojo Clan."
+    }
+  },
+  "280": {
+    "": {
+      "1": 1584,
+      "2": 4,
+      "4": "If you say it's white, it's white.\r\nIf you say it's black, it's black."
+    }
+  },
+  "281": {
+    "": {
+      "1": 1584,
+      "2": 5,
+      "4": "That's the yakuza world we live in."
+    }
+  },
+  "282": {
+    "": {
+      "1": 1584,
+      "2": 6,
+      "4": "No matter your methods,\r\nif you think you're right, you are."
+    }
+  },
+  "283": {
+    "": {
+      "1": 1584,
+      "2": 7,
+      "4": "No matter your methods,\r\nif you think you're right, you are."
+    }
+  },
+  "284": {
+    "": {
+      "1": 1584,
+      "2": 8,
+      "4": "But, right or wrong...\r\nI think your methods suck."
+    }
+  },
+  "285": {
+    "": {
+      "1": 1650,
+      "2": 7,
+      "4": "Heh."
+    }
+  },
+  "286": {
+    "": {
+      "1": 1584,
+      "2": 9,
+      "4": "Enough on that, though.\r\nIt's the Omi we gotta worry about."
+    }
+  },
+  "287": {
+    "": {
+      "1": 1584,
+      "2": 10,
+      "4": "Enough on that, though.\r\nIt's the Omi we gotta worry about."
+    }
+  },
+  "288": {
+    "": {
+      "1": 1650,
+      "2": 8,
+      "4": "The Omi?"
+    }
+  },
+  "289": {
+    "": {
+      "1": 1584,
+      "2": 11,
+      "4": "I was throwin' down right in the\r\nOmi's backyard on this little escapade."
+    }
+  },
+  "290": {
+    "": {
+      "1": 1584,
+      "2": 12,
+      "4": "I was throwin' down right in the\r\nOmi's backyard on this little escapade."
+    }
+  },
+  "291": {
+    "": {
+      "1": 1584,
+      "2": 13,
+      "4": "Even if it was Ibuchi's plot, it don't change\r\nthe fact that one of my boys killed an Omi exec."
+    }
+  },
+  "292": {
+    "": {
+      "1": 1584,
+      "2": 14,
+      "4": "They gonna take that sittin' down?"
+    }
+  },
+  "293": {
+    "": {
+      "1": 1650,
+      "2": 9,
+      "4": "Right... I admit,\r\nthe Omi is already demanding an explanation."
+    }
+  },
+  "294": {
+    "": {
+      "1": 1584,
+      "2": 15,
+      "4": "If we get into a war with the Omi now...\r\nWe're cooked."
+    }
+  },
+  "295": {
+    "": {
+      "1": 1584,
+      "2": 16,
+      "4": "So I've got an idea I wanna propose."
+    }
+  },
+  "296": {
+    "": {
+      "1": 1650,
+      "2": 10,
+      "4": "An idea?"
+    }
+  },
+  "297": {
+    "": {
+      "1": 1650,
+      "2": 11,
+      "4": "Majima-san..."
+    }
+  },
+  "subTable": {
+    "ROW_COUNT": 31,
+    "COLUMN_COUNT": 3,
+    "TEXT_COUNT": 0,
+    "ROW_VALIDATOR": -1,
+    "COLUMN_VALIDATOR": -1,
+    "HAS_ROW_NAMES": true,
+    "HAS_COLUMN_NAMES": false,
+    "HAS_ROW_VALIDITY": false,
+    "HAS_COLUMN_VALIDITY": false,
+    "HAS_UNKNOWN_BITMASK": false,
+    "HAS_ROW_INDICES": false,
+    "TABLE_ID": 0,
+    "columnTypes": {
+      "0": 0,
+      "1": 9,
+      "2": 0
+    },
+    "columnTypes2": {
+      "0": 2,
+      "1": 13,
+      "2": 2
+    },
+    "0": {
+      "speech_c91_0010_iibuchi": {
+        "0": 1563,
+        "1": {
+          "ROW_COUNT": 9,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C91_010_001": {
+              "0": 1,
+              "2": 2
+            }
+          },
+          "1": {
+            "C91_010_002": {
+              "0": 2,
+              "2": 6
+            }
+          },
+          "2": {
+            "C91_010_003": {
+              "0": 3,
+              "2": 7
+            }
+          },
+          "3": {
+            "C91_010_004": {
+              "0": 4,
+              "2": 8
+            }
+          },
+          "4": {
+            "C91_010_005": {
+              "0": 5,
+              "2": 9
+            }
+          },
+          "5": {
+            "C91_010_006": {
+              "0": 6,
+              "2": 10
+            }
+          },
+          "6": {
+            "C91_010_007": {
+              "0": 7,
+              "2": 11
+            }
+          },
+          "7": {
+            "C91_010_008": {
+              "0": 8,
+              "2": 22
+            }
+          },
+          "8": {
+            "C91_010_009": {
+              "0": 9,
+              "2": 23
+            }
+          }
+        },
+        "2": 2
+      }
+    },
+    "1": {
+      "speech_c91_0010_kanbu3": {
+        "0": 1564,
+        "1": {
+          "ROW_COUNT": 2,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C91_010_001": {
+              "0": 1,
+              "2": 5
+            }
+          },
+          "1": {
+            "C91_010_002": {
+              "0": 2,
+              "2": 16
+            }
+          }
+        },
+        "2": 5
+      }
+    },
+    "2": {
+      "speech_c91_0010_toda": {
+        "0": 1565,
+        "1": {
+          "ROW_COUNT": 3,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C91_010_001": {
+              "0": 1,
+              "2": 4
+            }
+          },
+          "1": {
+            "C91_010_002": {
+              "0": 2,
+              "2": 14
+            }
+          },
+          "2": {
+            "C91_010_003": {
+              "0": 3,
+              "2": 15
+            }
+          }
+        },
+        "2": 4
+      }
+    },
+    "3": {
+      "speech_c91_0020_iibuchi": {
+        "0": 1566,
+        "1": {
+          "ROW_COUNT": 2,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C91_020_001": {
+              "0": 1,
+              "2": 26
+            }
+          },
+          "1": {
+            "C91_020_002": {
+              "0": 2,
+              "2": 39
+            }
+          }
+        },
+        "2": 26
+      }
+    },
+    "4": {
+      "speech_c91_0020_majima": {
+        "0": 1567,
+        "1": {
+          "ROW_COUNT": 12,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C91_020_001": {
+              "0": 1,
+              "2": 27
+            }
+          },
+          "1": {
+            "C91_020_001_B": {
+              "0": 2,
+              "2": 28
+            }
+          },
+          "2": {
+            "C91_020_002": {
+              "0": 3,
+              "2": 29
+            }
+          },
+          "3": {
+            "C91_020_003": {
+              "0": 4,
+              "2": 30
+            }
+          },
+          "4": {
+            "C91_020_004": {
+              "0": 5,
+              "2": 31
+            }
+          },
+          "5": {
+            "C91_020_005": {
+              "0": 6,
+              "2": 32
+            }
+          },
+          "6": {
+            "C91_020_005_B": {
+              "0": 7,
+              "2": 33
+            }
+          },
+          "7": {
+            "C91_020_006": {
+              "0": 8,
+              "2": 34
+            }
+          },
+          "8": {
+            "C91_020_006_B": {
+              "0": 9,
+              "2": 35
+            }
+          },
+          "9": {
+            "C91_020_007": {
+              "0": 10,
+              "2": 36
+            }
+          },
+          "10": {
+            "C91_020_008": {
+              "0": 11,
+              "2": 37
+            }
+          },
+          "11": {
+            "C91_020_009": {
+              "0": 12,
+              "2": 42
+            }
+          }
+        },
+        "2": 27
+      }
+    },
+    "5": {
+      "speech_c91_0030_kawamura": {
+        "0": 1568,
+        "1": {
+          "ROW_COUNT": 10,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C91_030_001": {
+              "0": 1,
+              "2": 44
+            }
+          },
+          "1": {
+            "C91_030_002": {
+              "0": 2,
+              "2": 46
+            }
+          },
+          "2": {
+            "C91_030_003": {
+              "0": 3,
+              "2": 47
+            }
+          },
+          "3": {
+            "C91_030_004": {
+              "0": 4,
+              "2": 48
+            }
+          },
+          "4": {
+            "C91_030_005": {
+              "0": 5,
+              "2": 50
+            }
+          },
+          "5": {
+            "C91_030_006": {
+              "0": 6,
+              "2": 61
+            }
+          },
+          "6": {
+            "C91_030_007": {
+              "0": 7,
+              "2": 64
+            }
+          },
+          "7": {
+            "C91_030_008": {
+              "0": 8,
+              "2": 69
+            }
+          },
+          "8": {
+            "C91_030_009": {
+              "0": 9,
+              "2": 74
+            }
+          },
+          "9": {
+            "C91_030_010": {
+              "0": 10,
+              "2": 77
+            }
+          }
+        },
+        "2": 44
+      }
+    },
+    "6": {
+      "speech_c91_0030_majima": {
+        "0": 1569,
+        "1": {
+          "ROW_COUNT": 24,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C91_030_001": {
+              "0": 1,
+              "2": 45
+            }
+          },
+          "1": {
+            "C91_030_002": {
+              "0": 2,
+              "2": 49
+            }
+          },
+          "2": {
+            "C91_030_003": {
+              "0": 3,
+              "2": 51
+            }
+          },
+          "3": {
+            "C91_030_003_B": {
+              "0": 4,
+              "2": 52
+            }
+          },
+          "4": {
+            "C91_030_004": {
+              "0": 5,
+              "2": 53
+            }
+          },
+          "5": {
+            "C91_030_004_B": {
+              "0": 6,
+              "2": 54
+            }
+          },
+          "6": {
+            "C91_030_005": {
+              "0": 7,
+              "2": 55
+            }
+          },
+          "7": {
+            "C91_030_005_B": {
+              "0": 8,
+              "2": 56
+            }
+          },
+          "8": {
+            "C91_030_006": {
+              "0": 9,
+              "2": 57
+            }
+          },
+          "9": {
+            "C91_030_006_B": {
+              "0": 10,
+              "2": 58
+            }
+          },
+          "10": {
+            "C91_030_007": {
+              "0": 11,
+              "2": 59
+            }
+          },
+          "11": {
+            "C91_030_007_B": {
+              "0": 12,
+              "2": 60
+            }
+          },
+          "12": {
+            "C91_030_008": {
+              "0": 13,
+              "2": 62
+            }
+          },
+          "13": {
+            "C91_030_008_B": {
+              "0": 14,
+              "2": 63
+            }
+          },
+          "14": {
+            "C91_030_009": {
+              "0": 15,
+              "2": 65
+            }
+          },
+          "15": {
+            "C91_030_009_B": {
+              "0": 16,
+              "2": 66
+            }
+          },
+          "16": {
+            "C91_030_010": {
+              "0": 17,
+              "2": 67
+            }
+          },
+          "17": {
+            "C91_030_011": {
+              "0": 18,
+              "2": 68
+            }
+          },
+          "18": {
+            "C91_030_012": {
+              "0": 19,
+              "2": 70
+            }
+          },
+          "19": {
+            "C91_030_013": {
+              "0": 20,
+              "2": 71
+            }
+          },
+          "20": {
+            "C91_030_014": {
+              "0": 21,
+              "2": 72
+            }
+          },
+          "21": {
+            "C91_030_014_B": {
+              "0": 22,
+              "2": 73
+            }
+          },
+          "22": {
+            "C91_030_015": {
+              "0": 23,
+              "2": 75
+            }
+          },
+          "23": {
+            "C91_030_016": {
+              "0": 24,
+              "2": 76
+            }
+          }
+        },
+        "2": 45
+      }
+    },
+    "7": {
+      "speech_c91_0040_majima": {
+        "0": 1570,
+        "1": {
+          "ROW_COUNT": 4,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C91_040_001": {
+              "0": 1,
+              "2": 78
+            }
+          },
+          "1": {
+            "C91_040_002": {
+              "0": 2,
+              "2": 79
+            }
+          },
+          "2": {
+            "C91_040_003": {
+              "0": 3,
+              "2": 80
+            }
+          },
+          "3": {
+            "C91_040_004": {
+              "0": 4,
+              "2": 81
+            }
+          }
+        },
+        "2": 78
+      }
+    },
+    "8": {
+      "speech_c91_0050_majima": {
+        "0": 1571,
+        "1": {
+          "ROW_COUNT": 2,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C91_050_001": {
+              "0": 1,
+              "2": 82
+            }
+          },
+          "1": {
+            "C91_050_002": {
+              "0": 2,
+              "2": 85
+            }
+          }
+        },
+        "2": 82
+      }
+    },
+    "9": {
+      "speech_c92_0010_iibuchi": {
+        "0": 1572,
+        "1": {
+          "ROW_COUNT": 10,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C92_010_001": {
+              "0": 1,
+              "2": 86
+            }
+          },
+          "1": {
+            "C92_010_002": {
+              "0": 2,
+              "2": 89
+            }
+          },
+          "2": {
+            "C92_010_003": {
+              "0": 3,
+              "2": 90
+            }
+          },
+          "3": {
+            "C92_010_004": {
+              "0": 4,
+              "2": 92
+            }
+          },
+          "4": {
+            "C92_010_005": {
+              "0": 5,
+              "2": 95
+            }
+          },
+          "5": {
+            "C92_010_006": {
+              "0": 6,
+              "2": 96
+            }
+          },
+          "6": {
+            "C92_010_007": {
+              "0": 7,
+              "2": 97
+            }
+          },
+          "7": {
+            "C92_010_008": {
+              "0": 8,
+              "2": 98
+            }
+          },
+          "8": {
+            "C92_010_009": {
+              "0": 9,
+              "2": 100
+            }
+          },
+          "9": {
+            "C92_010_010": {
+              "0": 10,
+              "2": 107
+            }
+          }
+        },
+        "2": 86
+      }
+    },
+    "10": {
+      "speech_c92_0010_majima": {
+        "0": 1573,
+        "1": {
+          "ROW_COUNT": 7,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C92_010_001": {
+              "0": 1,
+              "2": 87
+            }
+          },
+          "1": {
+            "C92_010_002": {
+              "0": 2,
+              "2": 88
+            }
+          },
+          "2": {
+            "C92_010_003": {
+              "0": 3,
+              "2": 91
+            }
+          },
+          "3": {
+            "C92_010_004": {
+              "0": 4,
+              "2": 102
+            }
+          },
+          "4": {
+            "C92_010_005": {
+              "0": 5,
+              "2": 104
+            }
+          },
+          "5": {
+            "C92_010_006": {
+              "0": 6,
+              "2": 105
+            }
+          },
+          "6": {
+            "C92_010_007": {
+              "0": 7,
+              "2": 106
+            }
+          }
+        },
+        "2": 87
+      }
+    },
+    "11": {
+      "speech_c92_0020_majima": {
+        "0": 1574,
+        "1": {
+          "ROW_COUNT": 25,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C92_020_001": {
+              "0": 1,
+              "2": 109
+            }
+          },
+          "1": {
+            "C92_020_002": {
+              "0": 2,
+              "2": 110
+            }
+          },
+          "2": {
+            "C92_020_003": {
+              "0": 3,
+              "2": 114
+            }
+          },
+          "3": {
+            "C92_020_004": {
+              "0": 4,
+              "2": 115
+            }
+          },
+          "4": {
+            "C92_020_004_B": {
+              "0": 5,
+              "2": 116
+            }
+          },
+          "5": {
+            "C92_020_005": {
+              "0": 6,
+              "2": 117
+            }
+          },
+          "6": {
+            "C92_020_006": {
+              "0": 7,
+              "2": 119
+            }
+          },
+          "7": {
+            "C92_020_007": {
+              "0": 8,
+              "2": 122
+            }
+          },
+          "8": {
+            "C92_020_008": {
+              "0": 9,
+              "2": 125
+            }
+          },
+          "9": {
+            "C92_020_009": {
+              "0": 10,
+              "2": 129
+            }
+          },
+          "10": {
+            "C92_020_010": {
+              "0": 11,
+              "2": 132
+            }
+          },
+          "11": {
+            "C92_020_010_B": {
+              "0": 12,
+              "2": 133
+            }
+          },
+          "12": {
+            "C92_020_011": {
+              "0": 13,
+              "2": 136
+            }
+          },
+          "13": {
+            "C92_020_011_B": {
+              "0": 14,
+              "2": 137
+            }
+          },
+          "14": {
+            "C92_020_012": {
+              "0": 15,
+              "2": 138
+            }
+          },
+          "15": {
+            "C92_020_012_B": {
+              "0": 16,
+              "2": 139
+            }
+          },
+          "16": {
+            "C92_020_013": {
+              "0": 17,
+              "2": 141
+            }
+          },
+          "17": {
+            "C92_020_014": {
+              "0": 18,
+              "2": 145
+            }
+          },
+          "18": {
+            "C92_020_014_B": {
+              "0": 19,
+              "2": 146
+            }
+          },
+          "19": {
+            "C92_020_015": {
+              "0": 20,
+              "2": 149
+            }
+          },
+          "20": {
+            "C92_020_016": {
+              "0": 21,
+              "2": 150
+            }
+          },
+          "21": {
+            "C92_020_017": {
+              "0": 22,
+              "2": 154
+            }
+          },
+          "22": {
+            "C92_020_018": {
+              "0": 23,
+              "2": 155
+            }
+          },
+          "23": {
+            "C92_020_019": {
+              "0": 24,
+              "2": 157
+            }
+          },
+          "24": {
+            "C92_020_020": {
+              "0": 25,
+              "2": 159
+            }
+          }
+        },
+        "2": 109
+      }
+    },
+    "12": {
+      "speech_c92_0030_majima": {
+        "0": 1575,
+        "1": {
+          "ROW_COUNT": 1,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C92_030_001": {
+              "0": 1,
+              "2": 160
+            }
+          }
+        },
+        "2": 160
+      }
+    },
+    "13": {
+      "speech_c92_0040_majima": {
+        "0": 1576,
+        "1": {
+          "ROW_COUNT": 16,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C92_040_001": {
+              "0": 1,
+              "2": 161
+            }
+          },
+          "1": {
+            "C92_040_002": {
+              "0": 2,
+              "2": 164
+            }
+          },
+          "2": {
+            "C92_040_003": {
+              "0": 3,
+              "2": 165
+            }
+          },
+          "3": {
+            "C92_040_004": {
+              "0": 4,
+              "2": 168
+            }
+          },
+          "4": {
+            "C92_040_005": {
+              "0": 5,
+              "2": 170
+            }
+          },
+          "5": {
+            "C92_040_006": {
+              "0": 6,
+              "2": 171
+            }
+          },
+          "6": {
+            "C92_040_007": {
+              "0": 7,
+              "2": 172
+            }
+          },
+          "7": {
+            "C92_040_008": {
+              "0": 8,
+              "2": 175
+            }
+          },
+          "8": {
+            "C92_040_009": {
+              "0": 9,
+              "2": 178
+            }
+          },
+          "9": {
+            "C92_040_010": {
+              "0": 10,
+              "2": 181
+            }
+          },
+          "10": {
+            "C92_040_011": {
+              "0": 11,
+              "2": 183
+            }
+          },
+          "11": {
+            "C92_040_012": {
+              "0": 12,
+              "2": 185
+            }
+          },
+          "12": {
+            "C92_040_013": {
+              "0": 13,
+              "2": 187
+            }
+          },
+          "13": {
+            "C92_040_014": {
+              "0": 14,
+              "2": 191
+            }
+          },
+          "14": {
+            "C92_040_015": {
+              "0": 15,
+              "2": 192
+            }
+          },
+          "15": {
+            "C92_040_016": {
+              "0": 16,
+              "2": 195
+            }
+          }
+        },
+        "2": 161
+      }
+    },
+    "14": {
+      "speech_c92_0040_uketsuke": {
+        "0": 1577,
+        "1": {
+          "ROW_COUNT": 21,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C92_040_001": {
+              "0": 1,
+              "2": 162
+            }
+          },
+          "1": {
+            "C92_040_002": {
+              "0": 2,
+              "2": 163
+            }
+          },
+          "2": {
+            "C92_040_003": {
+              "0": 3,
+              "2": 166
+            }
+          },
+          "3": {
+            "C92_040_004": {
+              "0": 4,
+              "2": 167
+            }
+          },
+          "4": {
+            "C92_040_005": {
+              "0": 5,
+              "2": 169
+            }
+          },
+          "5": {
+            "C92_040_006": {
+              "0": 6,
+              "2": 173
+            }
+          },
+          "6": {
+            "C92_040_007": {
+              "0": 7,
+              "2": 174
+            }
+          },
+          "7": {
+            "C92_040_008": {
+              "0": 8,
+              "2": 176
+            }
+          },
+          "8": {
+            "C92_040_009": {
+              "0": 9,
+              "2": 177
+            }
+          },
+          "9": {
+            "C92_040_010": {
+              "0": 10,
+              "2": 179
+            }
+          },
+          "10": {
+            "C92_040_011": {
+              "0": 11,
+              "2": 180
+            }
+          },
+          "11": {
+            "C92_040_012": {
+              "0": 12,
+              "2": 182
+            }
+          },
+          "12": {
+            "C92_040_013": {
+              "0": 13,
+              "2": 184
+            }
+          },
+          "13": {
+            "C92_040_014": {
+              "0": 14,
+              "2": 186
+            }
+          },
+          "14": {
+            "C92_040_015": {
+              "0": 15,
+              "2": 188
+            }
+          },
+          "15": {
+            "C92_040_016": {
+              "0": 16,
+              "2": 189
+            }
+          },
+          "16": {
+            "C92_040_017": {
+              "0": 17,
+              "2": 190
+            }
+          },
+          "17": {
+            "C92_040_018": {
+              "0": 18,
+              "2": 193
+            }
+          },
+          "18": {
+            "C92_040_019": {
+              "0": 19,
+              "2": 194
+            }
+          },
+          "19": {
+            "C92_040_020": {
+              "0": 20,
+              "2": 196
+            }
+          },
+          "20": {
+            "C92_040_021": {
+              "0": 21,
+              "2": 197
+            }
+          }
+        },
+        "2": 162
+      }
+    },
+    "15": {
+      "speech_c93_0010_majima": {
+        "0": 1578,
+        "1": {
+          "ROW_COUNT": 3,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C93_010_001": {
+              "0": 1,
+              "2": 211
+            }
+          },
+          "1": {
+            "C93_010_002": {
+              "0": 2,
+              "2": 217
+            }
+          },
+          "2": {
+            "C93_010_003": {
+              "0": 3,
+              "2": 221
+            }
+          }
+        },
+        "2": 211
+      }
+    },
+    "16": {
+      "speech_c93_0010_makoto": {
+        "0": 1579,
+        "1": {
+          "ROW_COUNT": 21,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C93_010_001": {
+              "0": 1,
+              "2": 198
+            }
+          },
+          "1": {
+            "C93_010_002": {
+              "0": 2,
+              "2": 199
+            }
+          },
+          "2": {
+            "C93_010_003": {
+              "0": 3,
+              "2": 200
+            }
+          },
+          "3": {
+            "C93_010_004": {
+              "0": 4,
+              "2": 201
+            }
+          },
+          "4": {
+            "C93_010_005": {
+              "0": 5,
+              "2": 202
+            }
+          },
+          "5": {
+            "C93_010_006": {
+              "0": 6,
+              "2": 203
+            }
+          },
+          "6": {
+            "C93_010_007": {
+              "0": 7,
+              "2": 204
+            }
+          },
+          "7": {
+            "C93_010_008": {
+              "0": 8,
+              "2": 205
+            }
+          },
+          "8": {
+            "C93_010_009": {
+              "0": 9,
+              "2": 206
+            }
+          },
+          "9": {
+            "C93_010_010": {
+              "0": 10,
+              "2": 207
+            }
+          },
+          "10": {
+            "C93_010_011": {
+              "0": 11,
+              "2": 208
+            }
+          },
+          "11": {
+            "C93_010_012": {
+              "0": 12,
+              "2": 209
+            }
+          },
+          "12": {
+            "C93_010_013": {
+              "0": 13,
+              "2": 210
+            }
+          },
+          "13": {
+            "C93_010_014": {
+              "0": 14,
+              "2": 212
+            }
+          },
+          "14": {
+            "C93_010_015": {
+              "0": 15,
+              "2": 213
+            }
+          },
+          "15": {
+            "C93_010_016": {
+              "0": 16,
+              "2": 214
+            }
+          },
+          "16": {
+            "C93_010_017": {
+              "0": 17,
+              "2": 215
+            }
+          },
+          "17": {
+            "C93_010_018": {
+              "0": 18,
+              "2": 216
+            }
+          },
+          "18": {
+            "C93_010_019": {
+              "0": 19,
+              "2": 218
+            }
+          },
+          "19": {
+            "C93_010_020": {
+              "0": 20,
+              "2": 219
+            }
+          },
+          "20": {
+            "C93_010_021": {
+              "0": 21,
+              "2": 220
+            }
+          }
+        },
+        "2": 198
+      }
+    },
+    "17": {
+      "speech_c93_0020_kawamura": {
+        "0": 1580,
+        "1": {
+          "ROW_COUNT": 8,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C93_020_001": {
+              "0": 1,
+              "2": 223
+            }
+          },
+          "1": {
+            "C93_020_002": {
+              "0": 2,
+              "2": 225
+            }
+          },
+          "2": {
+            "C93_020_003": {
+              "0": 3,
+              "2": 226
+            }
+          },
+          "3": {
+            "C93_020_004": {
+              "0": 4,
+              "2": 228
+            }
+          },
+          "4": {
+            "C93_020_004_B": {
+              "0": 5,
+              "2": 229
+            }
+          },
+          "5": {
+            "C93_020_005": {
+              "0": 6,
+              "2": 230
+            }
+          },
+          "6": {
+            "C93_020_006": {
+              "0": 7,
+              "2": 232
+            }
+          },
+          "7": {
+            "C93_020_007": {
+              "0": 8,
+              "2": 233
+            }
+          }
+        },
+        "2": 223
+      }
+    },
+    "18": {
+      "speech_c93_0020_majima": {
+        "0": 1581,
+        "1": {
+          "ROW_COUNT": 4,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C93_020_001": {
+              "0": 1,
+              "2": 222
+            }
+          },
+          "1": {
+            "C93_020_002": {
+              "0": 2,
+              "2": 224
+            }
+          },
+          "2": {
+            "C93_020_003": {
+              "0": 3,
+              "2": 227
+            }
+          },
+          "3": {
+            "C93_020_004": {
+              "0": 4,
+              "2": 231
+            }
+          }
+        },
+        "2": 222
+      }
+    },
+    "19": {
+      "speech_c93_0030_iibuchi": {
+        "0": 1582,
+        "1": {
+          "ROW_COUNT": 29,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C93_030_001": {
+              "0": 1,
+              "2": 234
+            }
+          },
+          "1": {
+            "C93_030_002": {
+              "0": 2,
+              "2": 235
+            }
+          },
+          "2": {
+            "C93_030_003": {
+              "0": 3,
+              "2": 236
+            }
+          },
+          "3": {
+            "C93_030_004": {
+              "0": 4,
+              "2": 238
+            }
+          },
+          "4": {
+            "C93_030_005": {
+              "0": 5,
+              "2": 240
+            }
+          },
+          "5": {
+            "C93_030_006": {
+              "0": 6,
+              "2": 241
+            }
+          },
+          "6": {
+            "C93_030_007": {
+              "0": 7,
+              "2": 242
+            }
+          },
+          "7": {
+            "C93_030_008": {
+              "0": 8,
+              "2": 243
+            }
+          },
+          "8": {
+            "C93_030_009": {
+              "0": 9,
+              "2": 245
+            }
+          },
+          "9": {
+            "C93_030_010": {
+              "0": 10,
+              "2": 246
+            }
+          },
+          "10": {
+            "C93_030_011": {
+              "0": 11,
+              "2": 247
+            }
+          },
+          "11": {
+            "C93_030_012": {
+              "0": 12,
+              "2": 249
+            }
+          },
+          "12": {
+            "C93_030_013": {
+              "0": 13,
+              "2": 250
+            }
+          },
+          "13": {
+            "C93_030_014": {
+              "0": 14,
+              "2": 251
+            }
+          },
+          "14": {
+            "C93_030_015": {
+              "0": 15,
+              "2": 252
+            }
+          },
+          "15": {
+            "C93_030_016": {
+              "0": 16,
+              "2": 253
+            }
+          },
+          "16": {
+            "C93_030_017": {
+              "0": 17,
+              "2": 255
+            }
+          },
+          "17": {
+            "C93_030_018": {
+              "0": 18,
+              "2": 257
+            }
+          },
+          "18": {
+            "C93_030_019": {
+              "0": 19,
+              "2": 258
+            }
+          },
+          "19": {
+            "C93_030_020": {
+              "0": 20,
+              "2": 259
+            }
+          },
+          "20": {
+            "C93_030_021": {
+              "0": 21,
+              "2": 260
+            }
+          },
+          "21": {
+            "C93_030_022": {
+              "0": 22,
+              "2": 262
+            }
+          },
+          "22": {
+            "C93_030_023": {
+              "0": 23,
+              "2": 263
+            }
+          },
+          "23": {
+            "C93_030_024": {
+              "0": 24,
+              "2": 264
+            }
+          },
+          "24": {
+            "C93_030_025": {
+              "0": 25,
+              "2": 265
+            }
+          },
+          "25": {
+            "C93_030_026": {
+              "0": 26,
+              "2": 266
+            }
+          },
+          "26": {
+            "C93_030_027": {
+              "0": 27,
+              "2": 268
+            }
+          },
+          "27": {
+            "C93_030_028": {
+              "0": 28,
+              "2": 269
+            }
+          },
+          "28": {
+            "C93_030_029": {
+              "0": 29,
+              "2": 270
+            }
+          }
+        },
+        "2": 234
+      }
+    },
+    "20": {
+      "speech_c93_0030_majima": {
+        "0": 1583,
+        "1": {
+          "ROW_COUNT": 8,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C93_030_001": {
+              "0": 1,
+              "2": 237
+            }
+          },
+          "1": {
+            "C93_030_002": {
+              "0": 2,
+              "2": 239
+            }
+          },
+          "2": {
+            "C93_030_003": {
+              "0": 3,
+              "2": 244
+            }
+          },
+          "3": {
+            "C93_030_004": {
+              "0": 4,
+              "2": 248
+            }
+          },
+          "4": {
+            "C93_030_005": {
+              "0": 5,
+              "2": 254
+            }
+          },
+          "5": {
+            "C93_030_006": {
+              "0": 6,
+              "2": 256
+            }
+          },
+          "6": {
+            "C93_030_007": {
+              "0": 7,
+              "2": 261
+            }
+          },
+          "7": {
+            "C93_030_008": {
+              "0": 8,
+              "2": 267
+            }
+          }
+        },
+        "2": 237
+      }
+    },
+    "21": {
+      "speech_c93_0040_majima": {
+        "0": 1584,
+        "1": {
+          "ROW_COUNT": 16,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C93_040_001": {
+              "0": 1,
+              "2": 272
+            }
+          },
+          "1": {
+            "C93_040_002": {
+              "0": 2,
+              "2": 277
+            }
+          },
+          "2": {
+            "C93_040_003": {
+              "0": 3,
+              "2": 279
+            }
+          },
+          "3": {
+            "C93_040_004": {
+              "0": 4,
+              "2": 280
+            }
+          },
+          "4": {
+            "C93_040_005": {
+              "0": 5,
+              "2": 281
+            }
+          },
+          "5": {
+            "C93_040_006": {
+              "0": 6,
+              "2": 282
+            }
+          },
+          "6": {
+            "C93_040_006_A": {
+              "0": 7,
+              "2": 283
+            }
+          },
+          "7": {
+            "C93_040_006_B": {
+              "0": 8,
+              "2": 284
+            }
+          },
+          "8": {
+            "C93_040_007": {
+              "0": 9,
+              "2": 286
+            }
+          },
+          "9": {
+            "C93_040_007_B": {
+              "0": 10,
+              "2": 287
+            }
+          },
+          "10": {
+            "C93_040_008": {
+              "0": 11,
+              "2": 289
+            }
+          },
+          "11": {
+            "C93_040_008_B": {
+              "0": 12,
+              "2": 290
+            }
+          },
+          "12": {
+            "C93_040_009": {
+              "0": 13,
+              "2": 291
+            }
+          },
+          "13": {
+            "C93_040_010": {
+              "0": 14,
+              "2": 292
+            }
+          },
+          "14": {
+            "C93_040_011": {
+              "0": 15,
+              "2": 294
+            }
+          },
+          "15": {
+            "C93_040_012": {
+              "0": 16,
+              "2": 295
+            }
+          }
+        },
+        "2": 272
+      }
+    },
+    "22": {
+      "speech_c91_0010_terada": {
+        "0": 1644,
+        "1": {
+          "ROW_COUNT": 4,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C91_010_001": {
+              "0": 1,
+              "2": 0
+            }
+          },
+          "1": {
+            "C91_010_002": {
+              "0": 2,
+              "2": 1
+            }
+          },
+          "2": {
+            "C91_010_003": {
+              "0": 3,
+              "2": 24
+            }
+          },
+          "3": {
+            "C91_010_004": {
+              "0": 4,
+              "2": 25
+            }
+          }
+        },
+        "2": 0
+      }
+    },
+    "23": {
+      "speech_c91_0010_uematsu": {
+        "0": 1645,
+        "1": {
+          "ROW_COUNT": 5,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C91_010_001": {
+              "0": 1,
+              "2": 17
+            }
+          },
+          "1": {
+            "C91_010_002": {
+              "0": 2,
+              "2": 18
+            }
+          },
+          "2": {
+            "C91_010_003": {
+              "0": 3,
+              "2": 19
+            }
+          },
+          "3": {
+            "C91_010_004": {
+              "0": 4,
+              "2": 20
+            }
+          },
+          "4": {
+            "C91_010_005": {
+              "0": 5,
+              "2": 21
+            }
+          }
+        },
+        "2": 17
+      }
+    },
+    "24": {
+      "speech_c91_0010_yajima": {
+        "0": 1646,
+        "1": {
+          "ROW_COUNT": 3,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C91_010_001": {
+              "0": 1,
+              "2": 3
+            }
+          },
+          "1": {
+            "C91_010_002": {
+              "0": 2,
+              "2": 12
+            }
+          },
+          "2": {
+            "C91_010_003": {
+              "0": 3,
+              "2": 13
+            }
+          }
+        },
+        "2": 3
+      }
+    },
+    "25": {
+      "speech_c91_0020_terada": {
+        "0": 1647,
+        "1": {
+          "ROW_COUNT": 3,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C91_020_002": {
+              "0": 2,
+              "2": 38
+            }
+          },
+          "1": {
+            "C91_020_003": {
+              "0": 3,
+              "2": 40
+            }
+          },
+          "2": {
+            "C91_020_004": {
+              "0": 4,
+              "2": 41
+            }
+          }
+        },
+        "2": 38
+      }
+    },
+    "26": {
+      "speech_c91_0020_uematsu": {
+        "0": 1648,
+        "1": {
+          "ROW_COUNT": 1,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C91_020_002": {
+              "0": 2,
+              "2": 43
+            }
+          }
+        },
+        "2": 43
+      }
+    },
+    "27": {
+      "speech_c91_0050_kurofuku": {
+        "0": 1649,
+        "1": {
+          "ROW_COUNT": 2,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C91_050_001": {
+              "0": 1,
+              "2": 83
+            }
+          },
+          "1": {
+            "C91_050_002": {
+              "0": 2,
+              "2": 84
+            }
+          }
+        },
+        "2": 83
+      }
+    },
+    "28": {
+      "speech_c93_0040_terada": {
+        "0": 1650,
+        "1": {
+          "ROW_COUNT": 11,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C93_040_001": {
+              "0": 1,
+              "2": 271
+            }
+          },
+          "1": {
+            "C93_040_002": {
+              "0": 2,
+              "2": 273
+            }
+          },
+          "2": {
+            "C93_040_003": {
+              "0": 3,
+              "2": 274
+            }
+          },
+          "3": {
+            "C93_040_004": {
+              "0": 4,
+              "2": 275
+            }
+          },
+          "4": {
+            "C93_040_005": {
+              "0": 5,
+              "2": 276
+            }
+          },
+          "5": {
+            "C93_040_006": {
+              "0": 6,
+              "2": 278
+            }
+          },
+          "6": {
+            "C93_040_007": {
+              "0": 7,
+              "2": 285
+            }
+          },
+          "7": {
+            "C93_040_008": {
+              "0": 8,
+              "2": 288
+            }
+          },
+          "8": {
+            "C93_040_009": {
+              "0": 9,
+              "2": 293
+            }
+          },
+          "9": {
+            "C93_040_010": {
+              "0": 10,
+              "2": 296
+            }
+          },
+          "10": {
+            "C93_040_011": {
+              "0": 11,
+              "2": 297
+            }
+          }
+        },
+        "2": 271
+      }
+    },
+    "29": {
+      "speech_c92_0010_kashiwagi": {
+        "0": 1659,
+        "1": {
+          "ROW_COUNT": 5,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C92_010_001": {
+              "0": 1,
+              "2": 93
+            }
+          },
+          "1": {
+            "C92_010_002": {
+              "0": 2,
+              "2": 94
+            }
+          },
+          "2": {
+            "C92_010_003": {
+              "0": 3,
+              "2": 99
+            }
+          },
+          "3": {
+            "C92_010_004": {
+              "0": 4,
+              "2": 101
+            }
+          },
+          "4": {
+            "C92_010_005": {
+              "0": 5,
+              "2": 103
+            }
+          }
+        },
+        "2": 93
+      }
+    },
+    "30": {
+      "speech_c92_0020_hanaya": {
+        "0": 1660,
+        "1": {
+          "ROW_COUNT": 27,
+          "COLUMN_COUNT": 3,
+          "TEXT_COUNT": 0,
+          "ROW_VALIDATOR": -1,
+          "COLUMN_VALIDATOR": -1,
+          "HAS_ROW_NAMES": true,
+          "HAS_COLUMN_NAMES": false,
+          "HAS_ROW_VALIDITY": false,
+          "HAS_COLUMN_VALIDITY": false,
+          "HAS_UNKNOWN_BITMASK": false,
+          "HAS_ROW_INDICES": false,
+          "TABLE_ID": 0,
+          "columnTypes": {
+            "0": 0,
+            "1": 9,
+            "2": 0
+          },
+          "columnTypes2": {
+            "0": 2,
+            "1": 13,
+            "2": 2
+          },
+          "0": {
+            "C92_020_001": {
+              "0": 1,
+              "2": 108
+            }
+          },
+          "1": {
+            "C92_020_002": {
+              "0": 2,
+              "2": 111
+            }
+          },
+          "2": {
+            "C92_020_003": {
+              "0": 3,
+              "2": 112
+            }
+          },
+          "3": {
+            "C92_020_004": {
+              "0": 4,
+              "2": 113
+            }
+          },
+          "4": {
+            "C92_020_005": {
+              "0": 5,
+              "2": 118
+            }
+          },
+          "5": {
+            "C92_020_006": {
+              "0": 6,
+              "2": 120
+            }
+          },
+          "6": {
+            "C92_020_007": {
+              "0": 7,
+              "2": 121
+            }
+          },
+          "7": {
+            "C92_020_009": {
+              "0": 8,
+              "2": 123
+            }
+          },
+          "8": {
+            "C92_020_010": {
+              "0": 9,
+              "2": 124
+            }
+          },
+          "9": {
+            "C92_020_011": {
+              "0": 10,
+              "2": 126
+            }
+          },
+          "10": {
+            "C92_020_012": {
+              "0": 11,
+              "2": 127
+            }
+          },
+          "11": {
+            "C92_020_013": {
+              "0": 12,
+              "2": 128
+            }
+          },
+          "12": {
+            "C92_020_014": {
+              "0": 13,
+              "2": 130
+            }
+          },
+          "13": {
+            "C92_020_015": {
+              "0": 14,
+              "2": 131
+            }
+          },
+          "14": {
+            "C92_020_016": {
+              "0": 15,
+              "2": 134
+            }
+          },
+          "15": {
+            "C92_020_017": {
+              "0": 16,
+              "2": 135
+            }
+          },
+          "16": {
+            "C92_020_018": {
+              "0": 17,
+              "2": 140
+            }
+          },
+          "17": {
+            "C92_020_019": {
+              "0": 18,
+              "2": 142
+            }
+          },
+          "18": {
+            "C92_020_020": {
+              "0": 19,
+              "2": 143
+            }
+          },
+          "19": {
+            "C92_020_021": {
+              "0": 20,
+              "2": 144
+            }
+          },
+          "20": {
+            "C92_020_022": {
+              "0": 21,
+              "2": 147
+            }
+          },
+          "21": {
+            "C92_020_023": {
+              "0": 22,
+              "2": 148
+            }
+          },
+          "22": {
+            "C92_020_024": {
+              "0": 23,
+              "2": 151
+            }
+          },
+          "23": {
+            "C92_020_025": {
+              "0": 24,
+              "2": 152
+            }
+          },
+          "24": {
+            "C92_020_026": {
+              "0": 25,
+              "2": 153
+            }
+          },
+          "25": {
+            "C92_020_027": {
+              "0": 26,
+              "2": 156
+            }
+          },
+          "26": {
+            "C92_020_028": {
+              "0": 27,
+              "2": 158
+            }
+          }
+        },
+        "2": 108
+      }
+    }
+  }
+}

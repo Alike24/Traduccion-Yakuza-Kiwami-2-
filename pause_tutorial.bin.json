@@ -1,0 +1,811 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 41,
+  "COLUMN_COUNT": 14,
+  "TEXT_COUNT": 63,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "title": "1",
+    "explanation": "1",
+    "picture": "1",
+    "timer": "1",
+    "disp_pause_menu": "1",
+    "command": "1",
+    "is_last_enemy_no_die": "1",
+    "is_all_enemy_no_die": "1",
+    "count": "1",
+    "is_always_heat": "1",
+    "temp_skill": "1",
+    "is_talk": "1",
+    "is_player_no_die": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "title": 0,
+    "explanation": 0,
+    "picture": 1,
+    "timer": 0,
+    "disp_pause_menu": 6,
+    "command": 0,
+    "is_last_enemy_no_die": 6,
+    "is_all_enemy_no_die": 6,
+    "count": 0,
+    "is_always_heat": 6,
+    "temp_skill": 1,
+    "is_talk": 6,
+    "is_player_no_die": 6
+  },
+  "columnTypes2": {
+    "": -1,
+    "title": 12,
+    "explanation": 12,
+    "picture": 1,
+    "timer": 2,
+    "disp_pause_menu": 11,
+    "command": 12,
+    "is_last_enemy_no_die": 11,
+    "is_all_enemy_no_die": 11,
+    "count": 2,
+    "is_always_heat": 11,
+    "temp_skill": 1,
+    "is_talk": 11,
+    "is_player_no_die": 11
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2,
+    6,
+    3,
+    4,
+    9,
+    5,
+    7,
+    8,
+    10,
+    11,
+    12,
+    13
+  ],
+  "0": {
+    "": {
+      "picture": 0,
+      "timer": 0,
+      "disp_pause_menu": "0",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "btl_tutorial_01_guard": {
+      "picture": 0,
+      "timer": 0,
+      "disp_pause_menu": "0",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "btl_tutorial_02_dodge": {
+      "picture": 0,
+      "timer": 0,
+      "disp_pause_menu": "0",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "btl_tutorial_03_set_up": {
+      "picture": 0,
+      "timer": 0,
+      "disp_pause_menu": "0",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "btl_tutorial_04_quick_attack": {
+      "picture": 0,
+      "timer": 0,
+      "disp_pause_menu": "0",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "btl_tutorial_05_strong_attack": {
+      "picture": 0,
+      "timer": 0,
+      "disp_pause_menu": "0",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "btl_tutorial_06_down_attack": {
+      "picture": 0,
+      "timer": 0,
+      "disp_pause_menu": "0",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "btl_tutorial_07_hact": {
+      "picture": 0,
+      "timer": 0,
+      "disp_pause_menu": "0",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "btl_tutorial_08_hact_mode": {
+      "picture": 0,
+      "timer": 0,
+      "disp_pause_menu": "0",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "btl_tutorial_09_encount_btl": {
+      "title": "Street Battles",
+      "explanation": "Ruthless thugs wander the streets looking to pick fights with\r\nanyone who even looks at them the wrong way.\r\n\r\nYou can choose to run away from these thugs, but you'll earn\r\nmoney and EXP if you teach them a lesson instead.",
+      "picture": 1048,
+      "timer": 0,
+      "disp_pause_menu": "1",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "10": {
+    "btl_tutorial_10_throw": {
+      "title": "Grab, then throw!",
+      "explanation": "When an enemy is guarding, you can grab them out of it with <Sign:0,Combat>.\r\nFollow-up attack with <Sign:2,Combat> or <Sign:1,Combat>, or press <Sign:0,Combat> again to throw them.\r\n\r\nThrowing enemies is a great tactic when you're surrounded. \r\n\r\n<Sign:0,Combat><Sign:2,Combat>/<Sign:0,Combat><Sign:1,Combat>/<Sign:0,Combat><Sign:0,Combat>",
+      "picture": 1049,
+      "timer": 21,
+      "disp_pause_menu": "0",
+      "command": "<symbol=button_maru,Combat><symbol=button_maru,Combat>　<symbol=button_maru,Combat><symbol=button_sankaku,Combat>",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "1",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "11": {
+    "btl_tutorial_11_weapon": {
+      "picture": 0,
+      "timer": 0,
+      "disp_pause_menu": "0",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "12": {
+    "btl_tutorial_12_defend_weapon": {
+      "title": "Stash it for later!",
+      "explanation": "Weapons with a <symbol=can_pocket_in> over them (as opposed to the normal <symbol=black_down_triangle,Combat>) can be\r\nstored after you grab them.\r\n\r\nGrab a weapon with <Sign:0,Combat>, then store it with <symbol=button_down,Combat>. You'll lose the\r\nweapon (just like other grabbable objects) if you don't store it\r\nbefore the battle ends.",
+      "picture": 6401,
+      "timer": 0,
+      "disp_pause_menu": "1",
+      "command": "Grab a <symbol=can_pocket_in> weapon, then press <symbol=button_down,Combat>.",
+      "is_last_enemy_no_die": "1",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "13": {
+    "btl_tutorial_13_snatch_weapon": {
+      "picture": 0,
+      "timer": 0,
+      "disp_pause_menu": "0",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "14": {
+    "get_ability": {
+      "picture": 0,
+      "timer": 0,
+      "disp_pause_menu": "0",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "0",
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "15": {
+    "finished": {
+      "title": "Show them your strength!",
+      "explanation": "Show them your strength!",
+      "picture": 0,
+      "timer": 0,
+      "disp_pause_menu": "0",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "16": {
+    "btl_tutorial_01_quick_attack": {
+      "title": "Try out your basic Rush Combo!",
+      "explanation": "Press <Sign:2,Combat> to perform a quick attack. If you want to keep up the pressure,\r\nchain quick attacks together into a Rush Combo by pressing <Sign:2,Combat> up to four times.\r\nGetting in some swift jabs can open up your opponent to other attacks.\r\n\r\n<Sign:2,Combat> / <Sign:2,Combat><Sign:2,Combat> / <Sign:2,Combat><Sign:2,Combat><Sign:2,Combat> / <Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat>",
+      "picture": 4275,
+      "timer": 21,
+      "disp_pause_menu": "0",
+      "command": "<symbol=button_shikaku,Combat><symbol=button_shikaku,Combat><symbol=button_shikaku,Combat><symbol=button_shikaku,Combat>",
+      "is_last_enemy_no_die": "1",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "17": {
+    "btl_tutorial_02_strong_attack": {
+      "title": "Spice it up with a Finishing Blow!",
+      "explanation": "During a Rush Combo, pressing <Sign:1,Combat> will unleash a powerful attack called a\r\nFinishing Blow. Not only does a Finishing Blow cause some serious damage, but\r\nit can also stun whoever winds up on the receiving end.\r\n\r\n<Sign:2,Combat><Sign:1,Combat> / <Sign:2,Combat><Sign:2,Combat><Sign:1,Combat> / <Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat> / <Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat>",
+      "picture": 4276,
+      "timer": 21,
+      "disp_pause_menu": "0",
+      "command": "<symbol=button_shikaku,Combat><symbol=button_sankaku,Combat>",
+      "is_last_enemy_no_die": "1",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "18": {
+    "btl_tutorial_03_down_attack": {
+      "title": "Get fancy with a Double Finisher!",
+      "explanation": "You can follow up a Finishing Blow by pressing <Sign:1,Combat> again to unleash a\r\nDouble Finisher. While it leaves you wide open, landing a Double Finisher\r\ndeals massive damage and blows your enemies away.\r\n\r\n<Sign:2,Combat><Sign:1,Combat><Sign:1,Combat> / <Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat> / <Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat> / <Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>",
+      "picture": 4277,
+      "timer": 21,
+      "disp_pause_menu": "0",
+      "command": "<symbol=button_shikaku,Combat><symbol=button_shikaku,Combat><symbol=button_sankaku,Combat><symbol=button_sankaku,Combat>",
+      "is_last_enemy_no_die": "1",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "19": {
+    "btl_tutorial_04_guard": {
+      "title": "Hold the button to block!",
+      "explanation": "With people taking swings at you left and right, you need to know how\r\nto defend yourself. Hold <Sign:6,Combat> to put your guard up and block incoming attacks.\r\n\r\nWatch for openings in an enemy's attacks and strike!",
+      "picture": 4278,
+      "timer": 21,
+      "disp_pause_menu": "0",
+      "command": "<symbol=button_l1,Combat>",
+      "is_last_enemy_no_die": "1",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "20": {
+    "btl_tutorial_05_sway": {
+      "title": "You can also evade!",
+      "explanation": "Sometimes, dodging can be more effective than guarding.\r\nPress <Sign:3,Combat> to evade in the direction you're moving in.\r\n\r\nDodging is more difficult than guarding, but it makes it easier\r\nto find openings in the enemy's attacks.",
+      "picture": 4279,
+      "timer": 21,
+      "disp_pause_menu": "0",
+      "command": "<symbol=button_batsu,Combat>",
+      "is_last_enemy_no_die": "1",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "21": {
+    "btl_tutorial_06_lock_on": {
+      "title": "Focus on a single target!",
+      "explanation": "If you want to keep your eyes on your opponent, hold <Sign:4,Combat> to lock on\r\nto them.\r\n\r\nKiryu will always face the enemy regardless of how you move around.\r\nStaying focused on the fight is important on both offense and defense.",
+      "picture": 4280,
+      "timer": 21,
+      "disp_pause_menu": "0",
+      "command": "Lock on with <symbol=button_r1,Combat> and move with <symbol=button_l_stick,Combat>",
+      "is_last_enemy_no_die": "1",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "22": {
+    "btl_tutorial_07_charge_attack": {
+      "title": "Charge up your power!",
+      "explanation": "Hold and release <Sign:2,Combat> to unleash a powerful Charge Attack that can\r\nstun unsuspecting enemies.\r\n\r\nThis is especially effective against enemies who tend to guard,\r\nso be sure to watch your opponent's patterns before committing\r\nto a Charge Attack.",
+      "picture": 4281,
+      "timer": 21,
+      "disp_pause_menu": "0",
+      "command": "Hold to charge, then release <symbol=button_shikaku,Combat> to strike.",
+      "is_last_enemy_no_die": "1",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "23": {
+    "btl_tutorial_08_hact": {
+      "title": "Feel the Heat!",
+      "explanation": "Attacking enemies will pump Kiryu up and fill the Heat Gauge.\r\nPress <Sign:1,Combat> when the Heat Icon appears in the middle of the screen\r\nto expend a segment of your Heat Gauge and use a Heat Action.\r\nThere are many different Heat Actions depending on the situation,\r\nso be ready to press <Sign:1,Combat> whenever you see the Heat Icon!",
+      "picture": 4282,
+      "timer": 21,
+      "disp_pause_menu": "0",
+      "command": "Press <symbol=button_sankaku,Combat> when you see the flaming Heat Icon!",
+      "is_last_enemy_no_die": "1",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "1",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "24": {
+    "btl_tutorial_11_weapon_use": {
+      "title": "All's fair in a street fight!",
+      "explanation": "Objects with <symbol=black_down_triangle,Combat> displayed above them can be grabbed with <Sign:0,Combat> and used\r\nas a weapon.\r\n\r\nIf you find yourself in a pinch, check your surroundings for a\r\nweapon and turn the tables on your opponents!",
+      "picture": 6396,
+      "timer": 21,
+      "disp_pause_menu": "0",
+      "command": "Press <symbol=button_maru,Combat> near a weapon.",
+      "is_last_enemy_no_die": "1",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "25": {
+    "btl_tutorial_13_weapon_set": {
+      "title": "Equip your weapon!",
+      "explanation": "Select the equip slot from the left side of the screen, then\r\nchoose a weapon you wish to equip from the inventory on the right\r\nside of the screen.\r\n\r\nYou can change these at any time from the Pause Menu.",
+      "picture": 0,
+      "timer": 0,
+      "disp_pause_menu": "0",
+      "is_last_enemy_no_die": "1",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "26": {
+    "btl_tutorial_14__weapon_change": {
+      "title": "Using Equipped Weapons",
+      "explanation": "Press <symbol=button_left,Combat>, <symbol=button_up,Combat>, or <symbol=button_right,Combat> to take out a weapon you've equipped. Find the\r\nright weapon for a given situation and demolish your foes!",
+      "picture": 5760,
+      "timer": 0,
+      "disp_pause_menu": "0",
+      "command": "<symbol=button_left,Combat>　<symbol=button_up,Combat>　<symbol=button_right,Combat>",
+      "is_last_enemy_no_die": "1",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "27": {
+    "btl_tutorial_15__weapon_equip": {
+      "title": "Using Equipment",
+      "explanation": "Select the equip slot from the left side of the screen, then\r\nchoose something you want to equip from the inventory on the\r\nright side of the screen.\r\n\r\nEquipping armor can raise your defense, and in some special\r\ncases, activate special effects.\r\n\r\nYou can also get Equipment Bonuses if you equip certain\r\nspecial combinations of items.",
+      "picture": 0,
+      "timer": 0,
+      "disp_pause_menu": "0",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "28": {
+    "get_ability_1": {
+      "title": "Abilities",
+      "explanation": "You can spend EXP to boost Kiryu's base stats, such as Health and\r\nAttack, or learn Battle Skills to grant you new actions.\r\n\r\nThere are some skills that you cannot access at the moment. You\r\nmust meet certain requirements to unlock these skills.\r\n\r\nFor the time being, try learning <color=red>Strong Charge Attack</color> from the\r\nBattle Skills page.",
+      "picture": 0,
+      "timer": 0,
+      "disp_pause_menu": "0",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "29": {
+    "get_ability_2": {
+      "title": "Abilities",
+      "explanation": "Same as above",
+      "picture": 0,
+      "timer": 0,
+      "disp_pause_menu": "0",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "30": {
+    "get_ability_3": {
+      "title": "Abilities",
+      "explanation": "Same as above",
+      "picture": 0,
+      "timer": 0,
+      "disp_pause_menu": "0",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "31": {
+    "get_ability_4": {
+      "title": "Abilities",
+      "explanation": "Same as above",
+      "picture": 0,
+      "timer": 0,
+      "disp_pause_menu": "0",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "32": {
+    "btl_tutorial_16": {
+      "title": "Get Super Charged!",
+      "explanation": "Some enemies <color=red>cannot be knocked down with regular attacks</color>. If you\r\ncome across such an enemy, hold and release <Sign:1,Combat> to unleash a strong\r\nCharge Attack and take them down a notch!",
+      "picture": 4287,
+      "timer": 0,
+      "disp_pause_menu": "0",
+      "command": "Hold, then release <symbol=button_sankaku,Combat>.",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "33": {
+    "exbtl_tutorial_01": {
+      "title": "Extreme Heat Mode",
+      "explanation": "When your Heat Gauge is full, press <Sign:5,Combat> to enter a special mode\r\ncalled Extreme Heat Mode. Your Heat Gauge will drain constantly\r\nwhile in this mode, but you will gain access to some weapons and\r\nspecial attacks not available in Kiryu's regular style.",
+      "picture": 4288,
+      "timer": 0,
+      "disp_pause_menu": "1",
+      "command": "<symbol=button_r2,Combat>",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "1",
+      "count": 0,
+      "is_always_heat": "1",
+      "temp_skill": 412,
+      "is_talk": "0",
+      "is_player_no_die": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "34": {
+    "exbtl_tutorial_02": {
+      "title": "Komaki Fist Reversal",
+      "explanation": "Press <Sign:1,Combat> when an enemy is about to hit you to execute the Komaki\r\nFist Reversal.\r\n\r\nThis is a powerful counterattack that changes depending on the\r\ndirection the enemy is attacking you from. Use it wisely!",
+      "picture": 4289,
+      "timer": 0,
+      "disp_pause_menu": "0",
+      "command": "<symbol=button_sankaku,Combat> when about to be hit by an enemy",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "1",
+      "count": 1,
+      "is_always_heat": "1",
+      "temp_skill": 450,
+      "is_talk": "0",
+      "is_player_no_die": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "35": {
+    "exbtl_tutorial_03": {
+      "title": "Komaki Firearm Flip",
+      "explanation": "Press <Sign:1,Combat> when near an enemy with a gun to execute the Komaki Firearm\r\nFlip.\r\n\r\nThis is a strong counterattack that will force the enemy to drop\r\ntheir weapon and give you the upper hand.",
+      "picture": 4290,
+      "timer": 0,
+      "disp_pause_menu": "0",
+      "command": "<symbol=button_r1,Combat> to enter fighting stance, then <symbol=button_sankaku,Combat> near enemy with gun",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "1",
+      "count": 1,
+      "is_always_heat": "1",
+      "temp_skill": 451,
+      "is_talk": "0",
+      "is_player_no_die": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "36": {
+    "btl_tutorial_17": {
+      "title": "Essence of Finishing Blow",
+      "explanation": "Some story battles let you kick your opponent's ass in style.\r\n\r\nFirst get your opponent's health low, then wait for the prompt\r\nto rapidly press <Sign:2,Combat> to build up Heat.\r\nOnce your Heat is fully charged, press <Sign:1,Combat> to activate Essence of\r\nFinishing Blow!",
+      "picture": 5212,
+      "timer": 0,
+      "disp_pause_menu": "1",
+      "command": "<symbol=button_shikaku,Combat> rapidly to build up Heat, then <symbol=button_sankaku,Combat>",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "1",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "37": {
+    "finished_phase": {
+      "title": "Show them your strength!",
+      "explanation": "Show them your strength!",
+      "picture": 0,
+      "timer": 0,
+      "disp_pause_menu": "0",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "0",
+      "is_player_no_die": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "38": {
+    "encount_boss_info": {
+      "title": "Street Bosses",
+      "explanation": "After you win a certain number of street battles, a powerful\r\nstreet boss may appear somewhere in the city.\r\n\r\nBe sure to prepare well before taking them on!",
+      "picture": 5399,
+      "timer": 0,
+      "disp_pause_menu": "1",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 0,
+      "is_talk": "1",
+      "is_player_no_die": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "39": {
+    "finished_phase_mute": {
+      "title": "Show them your strength!",
+      "explanation": "Show them your strength!",
+      "picture": 0,
+      "timer": 0,
+      "disp_pause_menu": "0",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 450,
+      "is_talk": "0",
+      "is_player_no_die": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "40": {
+    "finished_phase_hinawa": {
+      "title": "Show them your strength!",
+      "explanation": "Show them your strength!",
+      "picture": 0,
+      "timer": 0,
+      "disp_pause_menu": "0",
+      "is_last_enemy_no_die": "0",
+      "is_all_enemy_no_die": "0",
+      "count": 0,
+      "is_always_heat": "0",
+      "temp_skill": 451,
+      "is_talk": "0",
+      "is_player_no_die": "0",
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 40
+    }
+  }
+}

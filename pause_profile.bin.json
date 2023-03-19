@@ -1,0 +1,830 @@
+{
+  "VERSION": 1,
+  "REVISION": 12,
+  "ROW_COUNT": 64,
+  "COLUMN_COUNT": 8,
+  "TEXT_COUNT": 66,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 0,
+  "columnValidity": {
+    "": "0",
+    "category": "1",
+    "name": "1",
+    "explanation": "1",
+    "picture": "1",
+    "unlock_condition_timeline": "1",
+    "unlock_condition_timeline_sub": "1",
+    "unlock_condition_timeline_sub_sub": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "category": 2,
+    "name": 0,
+    "explanation": 0,
+    "picture": 1,
+    "unlock_condition_timeline": 2,
+    "unlock_condition_timeline_sub": 0,
+    "unlock_condition_timeline_sub_sub": 0
+  },
+  "columnTypes2": {
+    "": -1,
+    "category": 0,
+    "name": 12,
+    "explanation": 12,
+    "picture": 1,
+    "unlock_condition_timeline": 0,
+    "unlock_condition_timeline_sub": 2,
+    "unlock_condition_timeline_sub_sub": 2
+  },
+  "COLUMN_INDICES": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "0": {
+    "": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "kiryu": {
+      "category": 9,
+      "name": "Kazuma Kiryu",
+      "explanation": "The former fourth chairman of the Tojo Clan, a yakuza\r\norganization in control of eastern Japan. Kiryu is known\r\nthroughout the Japanese underworld as the legendary Dragon\r\nof Dojima. He recently left the yakuza life behind to live\r\npeacefully alongside Haruka Sawamura, the daughter of his late\r\nlove, Yumi. However, one year after the Ten Billion Yen Incident,\r\nhe witnesses an attack on the Tojo Clan's fifth chairman, Yukio\r\nTerada, the man he named as his successor. With this, he gets\r\nswept up into the war with the formidable Omi Alliance of Kansai.",
+      "picture": 1109,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "akiyama": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "big": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "saejima": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "majima": {
+      "category": 9,
+      "name": "Goro Majima",
+      "explanation": "Former patriarch of the Majima Family, a Tojo Clan subsidiary.\r\nHe is called The Mad Dog of Shimano for his violent and\r\nunpredictable behavior. As a man obsessed with strength,\r\nhe gave little consideration to the circumstances of his\r\norganization and chose instead to chase Kiryu during the events\r\nof last year. However, with Shimano's passing and recent\r\nchanges within the Tojo Clan, he rose to the rank of patriarch.\r\nNevertheless, after a certain disturbance, he left the Tojo\r\nClan along with his subordinates.",
+      "picture": 1112,
+      "unlock_condition_timeline": 1,
+      "unlock_condition_timeline_sub": 185,
+      "unlock_condition_timeline_sub_sub": 33,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "6": {
+    "sugai": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "someya": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "edo": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "jimy": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "nagumo": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "yuta": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "matsunga": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "hirose": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "tagashira": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "masuzoe": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "koshimizu": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "kurusu": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "iwamit": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "tatukawa": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "date": {
+      "category": 10,
+      "name": "Makoto Date",
+      "explanation": "Former detective for the Tokyo Metropolitan Police Organized\r\nCrime Division. Acted as Kiryu's partner during last year's\r\nKamurocho incident. Initially, he led Kiryu's investigation\r\nregarding the murder of Sohei Dojima in 1995 and was subsequently\r\nbooted from Division One down to Division Four. To get back his\r\ncareer, he got close to Kiryu, and the two developed a friendship.\r\nIn time, Kiryu even became his main collaborator. After the Ten\r\nBillion Yen Incident, Date quit the force and currently spends\r\nhis days blissfully alongside his daughter, Saya.",
+      "picture": 1098,
+      "unlock_condition_timeline": 1,
+      "unlock_condition_timeline_sub": 184,
+      "unlock_condition_timeline_sub_sub": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "21": {
+    "honjo": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "22": {
+    "haruka": {
+      "category": 10,
+      "name": "Haruka Sawamura",
+      "explanation": "Ten-year-old girl that lives together with Kiryu. Their fateful\r\npaths crossed during last year's incident in Kamurocho.\r\nOver the course of these events, she was hunted down\r\nas \"The Girl Worth Ten Billion Yen,\" but avoided danger each\r\ntime, thanks to the help of both Kiryu and Shintaro Kazama.\r\nAs the daughter of Kiryu's late love, Yumi, she has a strong\r\nheart like her mother. She places the utmost trust in Kiryu.",
+      "picture": 1100,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "23": {
+    "haruto": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "24": {
+    "asagao": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "25": {
+    "jyungi": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "26": {
+    "daidouji": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "27": {
+    "kasahara": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "28": {
+    "iino": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "29": {
+    "daigo": {
+      "category": 11,
+      "name": "Daigo Dojima",
+      "explanation": "Former member of the Dojima Family, a Tojo Clan subsidiary.\r\nAs the son of Sohei Dojima, who was killed 11 years ago,\r\nhe was like a younger brother to Kiryu. Five years ago, he was\r\narrested during a conflict with a Kansai organization and sent\r\nto prison for weapons violations. He detested Kiryu as his\r\nfather's murderer, but after his release, he discovered the truth\r\nand subsequently lost his purpose. Afterward, he spent his days\r\nin Kamurocho in degeneracy, but after reuniting with Kiryu, he\r\ndecides to take action and settle his troublesome past.",
+      "picture": 1097,
+      "unlock_condition_timeline": 1,
+      "unlock_condition_timeline_sub": 181,
+      "unlock_condition_timeline_sub_sub": 36,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "30": {
+    "yayoi": {
+      "category": 11,
+      "name": "Yayoi Dojima",
+      "explanation": "The acting chairwoman of the Tojo Clan and wife of the late\r\nSohei Dojima, a top executive and patriarch of his own family.\r\nShe was brought in to lead after the death of Chairman Terada,\r\nbeing held in high regard even among the younger members\r\nof the clan. A year ago, she went after Kiryu, who was rumored\r\nto have killed her husband, but relented after learning the truth.\r\nStill, she worries about her wayward son, Daigo, and entrusts\r\nthe task of ending the clan wars to Kiryu.",
+      "picture": 4587,
+      "unlock_condition_timeline": 1,
+      "unlock_condition_timeline_sub": 181,
+      "unlock_condition_timeline_sub_sub": 15,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "31": {
+    "kazama": {
+      "category": 11,
+      "name": "Shintaro Kazama",
+      "explanation": "Deceased. Former patriarch of the Kazama Family, a Tojo Clan\r\nsubsidiary. Kiryu thought of him as a father, as Kazama had\r\nraised him since he was little. While taking care of orphans\r\nsuch as Kiryu, Nishikiyama, and Yumi, he was also feared as\r\none of the Tojo Clan's finest assassins. Nonetheless, the\r\nSunflower Orphanage was built using his own funds to care for\r\nthe children of those he killed. Even after his death, his ideals\r\nwere taken up by people such as Kiryu and Terada, as he was a\r\ntrue yakuza who lives on in the hearts of those he touched.",
+      "picture": 4571,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "32": {
+    "kashiwagi": {
+      "category": 11,
+      "name": "Osamu Kashiwagi",
+      "explanation": "Second patriarch of the Kazama Family, a Tojo Clan subsidiary.\r\nAs a man who has inherited Kazama's rank after his death, he\r\nis vital to the current Tojo Clan executives. He's been a friend\r\nto Kiryu for years and is a man Kiryu can count on for his\r\nhonesty and logical thought process. Presently, he watches\r\nover the city from the heights of the Millennium Tower, having\r\nmoved the Kazama Family office to the top floor.",
+      "picture": 4568,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "33": {
+    "terada": {
+      "category": 11,
+      "name": "Yukio Terada",
+      "explanation": "Currently the fifth chairman of the Tojo Clan after succeeding\r\nKiryu one year prior. Formerly the chief of HQ for the largest\r\nyakuza organization in Kansai, the Omi Alliance. During the\r\n2005 incident, he decided to help Kazama, the man he owed a life\r\ndebt to. Afterward, though he was betrayed by the Omi Alliance,\r\nhe was entrusted with the Tojo Clan's future by none other than\r\nKiryu himself. As a man who strives for peace, Terada is the type\r\nof yakuza who lives life through his intellect. Yet just as he's\r\nbrokering a truce with the Omi Alliance, he's shot and killed.",
+      "picture": 4585,
+      "unlock_condition_timeline": 1,
+      "unlock_condition_timeline_sub": 181,
+      "unlock_condition_timeline_sub_sub": 11,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "34": {
+    "shindou": {
+      "category": 11,
+      "name": "Koji Shindo",
+      "explanation": "Second patriarch of the Nishikiyama Family, a Tojo Clan\r\nsubsidiary. Respects the first patriarch, Nishikiyama, who was\r\nKiryu's best friend, even to the point of going after Kiryu's\r\nlife under Nishikiyama's command. After Nishikiyama's death,\r\nhe absorbed part of the former Shimano Family and many other\r\nsenior members of the Tojo Clan. Currently he holds the largest\r\ninfluence in the clan. Even now, his reverence for Nishikiyama\r\nruns strong, and he still bears hostility toward Kiryu, who had\r\nput his family on the brink of demise.",
+      "picture": 4581,
+      "unlock_condition_timeline": 1,
+      "unlock_condition_timeline_sub": 185,
+      "unlock_condition_timeline_sub_sub": 7,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "35": {
+    "shimano": {
+      "category": 11,
+      "name": "Futoshi Shimano",
+      "explanation": "Deceased. Former patriarch of the Shimano Family, a Tojo Clan\r\nsubsidiary. Was known as one of the head executive members of\r\nthe Tojo Clan alongside Kazama, a fellow Dojima Family member.\r\nWhen it came time for Kazama to become captain, Shimano left\r\nand started his own family. Leading guys like Majima who bore\r\noutstanding strength, the Shimano Family made a name for itself\r\nas a group to be feared. During the events of 2005, he was a key\r\nplayer in the Tojo Clan's war of succession, and though he fought\r\nboth Nishikiyama and Kiryu, in the end, his failure cost him his life.",
+      "picture": 4580,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "36": {
+    "nishiki": {
+      "category": 11,
+      "name": "Akira Nishikiyama",
+      "explanation": "Deceased. Former patriarch of the Nishikiyama Family, a Tojo Clan\r\nsubsidiary. Best friends with Kiryu since their days growing up in the\r\nSunflower Orphanage. With Kazama's blessing, he joined the Dojima\r\nFamily alongside Kiryu but killed his own patriarch after finding\r\nout he abducted the woman both he and Kiryu loved. After betraying\r\nKiryu, who had covered for his crimes, he climbed the Tojo Clan\r\nladder and started the war of succession. After fighting Kiryu,\r\nwho stood in the way of his plans, he died to protect his former\r\nrival, as well as Haruka and Yumi, from Kyohei Jingu's assault.",
+      "picture": 4575,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "37": {
+    "ryuuji": {
+      "category": 12,
+      "name": "Ryuji Goda",
+      "explanation": "Second patriarch of the Omi Alliance's Go-Ryu Clan, and the son\r\nof Omi Alliance Chairman Jin Goda. The very same person who put\r\nDaigo into a trap five years ago, Ryuji has an odd fascination\r\nwith Kiryu, the Dragon of Dojima.",
+      "picture": 4576,
+      "unlock_condition_timeline": 1,
+      "unlock_condition_timeline_sub": 182,
+      "unlock_condition_timeline_sub_sub": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "38": {
+    "jin": {
+      "category": 12,
+      "name": "Jin Goda",
+      "explanation": "Fifth chairman of the Omi Alliance, and the man who stands at\r\nthe top of the yakuza world. He currently controls the largest\r\norganization in Kansai, which boasts over 35,000 members. His\r\npersonality and lineage are all shrouded in mystery.",
+      "picture": 4566,
+      "unlock_condition_timeline": 1,
+      "unlock_condition_timeline_sub": 183,
+      "unlock_condition_timeline_sub_sub": 9,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "39": {
+    "takashima": {
+      "category": 12,
+      "name": "Ryo Takashima",
+      "explanation": "Patriarch of the Omi Alliance's Takashima Family. Among the\r\nmany aged executives of the Omi Alliance, Takashima managed to\r\nbecome the chief of HQ even though he's only in his forties.\r\nHe and the Tojo Clan's fifth chairman, Terada (the former\r\nchief of HQ), were sworn brothers. Trusted by Jin Goda,\r\nhe is the brains behind the Omi Alliance.",
+      "picture": 4583,
+      "unlock_condition_timeline": 1,
+      "unlock_condition_timeline_sub": 183,
+      "unlock_condition_timeline_sub_sub": 9,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "40": {
+    "sengoku": {
+      "category": 12,
+      "name": "Toranosuke Sengoku",
+      "explanation": "Patriarch of the Omi Alliance's Sengoku Family. He harasses\r\nKiryu and Daigo with crude and vulgar speech even though\r\nthey came to discuss a truce. His garish fashion and obsession\r\nwith money have led many to believe he is a man of means.",
+      "picture": 4579,
+      "unlock_condition_timeline": 1,
+      "unlock_condition_timeline_sub": 183,
+      "unlock_condition_timeline_sub_sub": 9,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "41": {
+    "kawara": {
+      "category": 13,
+      "name": "Jiro Kawara",
+      "explanation": "A detective serving in Foreign Affairs, Division Two of the\r\nTokyo Metropolitan Police Department. As such, he's been an\r\nacquaintance of Date since back in the day. Despite getting on\r\nin years, his background and history are unknown. Ordered by\r\nDivision Chief Kurahashi to secretly investigate Kazuki, he\r\nembarks on a secret mission alongside Date.",
+      "picture": 4570,
+      "unlock_condition_timeline": 1,
+      "unlock_condition_timeline_sub": 184,
+      "unlock_condition_timeline_sub_sub": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "42": {
+    "sudou": {
+      "category": 13,
+      "name": "Junichi Sudo",
+      "explanation": "Division Four chief of the Tokyo Metropolitan Police Department.\r\nThough his rank is that of senior superintendent, he was actually\r\nDate's junior back when they were in Division One. During the\r\nincident of 2005, he pursued the case as a division chief and\r\nended up supporting both Kiryu and Date. He had taken full\r\nresponsibility for ignoring orders from HQ at that time and\r\nhas since been reassigned to Division Four, the \"yakuza group.\"",
+      "picture": 4582,
+      "unlock_condition_timeline": 1,
+      "unlock_condition_timeline_sub": 182,
+      "unlock_condition_timeline_sub_sub": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "43": {
+    "kurahashi": {
+      "category": 13,
+      "name": "Wataru Kurahashi",
+      "explanation": "Division Two chief of Foreign Affairs for Tokyo PD. His rank is\r\nsenior superintendent, and he focuses primarily on investigations\r\nof East Asian affairs. Calm and collected, he rarely shows his true\r\nemotions. Since the bureau often has missions that involve high\r\nconfidentiality, they perform low-profile investigations through\r\ntheir own channels. After foreseeing the bombing of the\r\nMillennium Tower, he requested Date to secretly investigate\r\nKazuki through association with Sudo.",
+      "picture": 4573,
+      "unlock_condition_timeline": 1,
+      "unlock_condition_timeline_sub": 184,
+      "unlock_condition_timeline_sub_sub": 4,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "44": {
+    "sayama": {
+      "category": 14,
+      "name": "Kaoru Sayama",
+      "explanation": "Lead detective of Osaka PD's Division 4, Organized Crime. \r\nKnown as the Yakuza Huntress. Although she's only 25 years of\r\nage, she is more than competent at handling even the toughest\r\nof yakuza. She always maintains a harsh demeanor and never\r\nbacks down from a challenge even if she is outmatched. She is\r\nalso very aware of her position as a female leader of the\r\nOsaka Police. She takes on the request from Sudo to put Kazuma\r\nKiryu into protective custody.",
+      "picture": 4577,
+      "unlock_condition_timeline": 1,
+      "unlock_condition_timeline_sub": 183,
+      "unlock_condition_timeline_sub_sub": 4,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "45": {
+    "bessyo": {
+      "category": 14,
+      "name": "Tsutomu Bessho",
+      "explanation": "A strong detective who's cracking down on the yakuza underworld\r\nin Osaka. He's 52 years old, talks with a brash Kansai accent, and\r\nwith his overpowering attitude, acts as the \"Don of Division\r\nFour.\" Also Kaoru Sayama's boss. While Bessho was initially opposed\r\nto Sudo's request to put Kiryu into protective custody, he accepts\r\nafter hearing Sayama out. As a police chief who is fiercely\r\nproud of his crew, he aims to show up his Kanto rivals.",
+      "picture": 4563,
+      "unlock_condition_timeline": 1,
+      "unlock_condition_timeline_sub": 183,
+      "unlock_condition_timeline_sub_sub": 5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "46": {
+    "sayamahaha": {
+      "category": 15,
+      "name": "Sayama's Mother",
+      "explanation": "Originally from Korea, her real name is Suyeon Jung. Formerly\r\nthe wife of the Jingweon Mafia's boss. After the massacre 26\r\nyears ago, she was saved by Kawara and escaped to Kansai.\r\nAt that time, she let go of the child she had taken with her.\r\nAfterward, she married Kawara and gave birth to Kaoru.\r\nHowever, while Kawara was posted overseas, she was\r\nassassinated for betraying the Jingweon creed. Before her\r\ndeath, she left Kaoru in the care of her friend, Tamiyo Sayama,\r\nand asked her to protect Kaoru from her accursed past.",
+      "picture": 4578,
+      "unlock_condition_timeline": 1,
+      "unlock_condition_timeline_sub": 215,
+      "unlock_condition_timeline_sub_sub": 36,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "47": {
+    "tamiyo": {
+      "category": 15,
+      "name": "Tamiyo Sayama",
+      "explanation": "Kaoru Sayama's adoptive mother and the Mama of Aoi, a bar in\r\nSotenbori. She skillfully patched Sayama up after she was shot.\r\nIt seems she had some experience as a nurse, and a number of\r\nother secrets she's kept from Kaoru.",
+      "picture": 4584,
+      "unlock_condition_timeline": 1,
+      "unlock_condition_timeline_sub": 184,
+      "unlock_condition_timeline_sub_sub": 8,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "48": {
+    "emoto": {
+      "category": 15,
+      "name": "Emoto",
+      "explanation": "The local doctor of Kamurocho and the director of\r\nEmoto Medical Clinic. During the previous year's incident,\r\nhe helped a boy in critical condition whom Kiryu brought in.\r\nHe was formerly the chief surgeon at Touto University Medical\r\nSchool, but he currently runs his own clinic in order to better\r\nhelp the people of Kamurocho. Kazama was also sympathetic to his\r\nbrusque and sincere personality and helped him out financially\r\non more than one occasion. Even to this day, Emoto is revered\r\nas one of Kamurocho's finest doctors.",
+      "picture": 5158,
+      "unlock_condition_timeline": 1,
+      "unlock_condition_timeline_sub": 187,
+      "unlock_condition_timeline_sub_sub": 4,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "49": {
+    "kazuki": {
+      "category": 15,
+      "name": "Kazuki",
+      "explanation": "The owner of Stardust, the number one host club in Kamurocho.\r\nTo repay Kazama for his guidance when he first started his\r\nclub, he assisted Kiryu upon his release from prison in 2005.\r\nFrom then on, he got to know Kiryu and Date, establishing\r\nfriendships with the two that surpassed their respective\r\ninterests. With strong morals and an upright attitude, he\r\nhas strong opinions about his club and his city despite his\r\noccupation as a host. He is known as a promising young\r\nmanager who generates a steady stream of business.",
+      "picture": 4572,
+      "unlock_condition_timeline": 1,
+      "unlock_condition_timeline_sub": 186,
+      "unlock_condition_timeline_sub_sub": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "50": {
+    "yuuya": {
+      "category": 15,
+      "name": "Yuya",
+      "explanation": "The manager of Stardust, the number one host club in Kamurocho.\r\nManages the floor in place of its very busy owner. He first\r\nencountered Kiryu in 2005 when he came to Stardust to meet\r\nwith Kazuki. Mistaking him for a yakuza who came to shake\r\ndown the club, he ended up starting a fight with him. The two\r\nmade up afterward, and along with Kazuki, he became a great\r\nally to Kiryu and Date. Yuya is a single-minded young man with\r\na passionate heart, and he anticipates Kiryu's return to Kamurocho\r\nwhile sensing all the disturbances happening in the city.",
+      "picture": 4588,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "51": {
+    "hanaya": {
+      "category": 15,
+      "name": "The Florist of Sai",
+      "explanation": "The legendary information dealer who ran Purgatory, a haunt\r\nfor all the homeless in Kamurocho. He met Kiryu in 2005 and\r\nhelped him search for Yumi's whereabouts. Using his enormous\r\nwealth and influence, he built an underground pleasure palace\r\nfrom which he gathered information from the ten thousand\r\ncameras set up all across Kamurocho. His thorough analytical\r\nabilities allow him to provide valuable information to the\r\nhighest bidder. However, he suddenly disappeared from the\r\npark, and according to Majima, is now connected to the police.",
+      "picture": 4564,
+      "unlock_condition_timeline": 1,
+      "unlock_condition_timeline_sub": 188,
+      "unlock_condition_timeline_sub_sub": 8,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "52": {
+    "m_majima": {
+      "category": 16,
+      "name": "Goro Majima",
+      "explanation": "Former patriarch of the Majima Family, a Tojo Clan subsidiary.\r\nHe is called The Mad Dog of Shimano for his violent and\r\nunpredictable behavior. Many have looked to him as a central\r\nfigure for securing the clan's future, but he himself expresses\r\nlittle interest in running the organization, and instead\r\nmaintains his position as a lone wolf. However, with the recent\r\nmerit-based reformation plan pushed by Fifth Chairman Terada,\r\nMajima is unwillingly thrust into a succession conflict with\r\nAkinobu Uematsu over who will become the next captain.",
+      "picture": 1112,
+      "unlock_condition_timeline": 25,
+      "unlock_condition_timeline_sub": 1,
+      "unlock_condition_timeline_sub_sub": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "53": {
+    "m_kawamura": {
+      "category": 17,
+      "name": "Ryota Kawamura",
+      "explanation": "Member of the Majima Family. He greatly admires Majima and had\r\nbeen knocking at the gates of the Majima Family since 2005. As\r\nthe youngest member of the family, he is tasked with general\r\nchores. While he does have a bit of a goofy side, his welcoming\r\npersonality earns him the approval of many of the senior members.",
+      "picture": 4569,
+      "unlock_condition_timeline": 25,
+      "unlock_condition_timeline_sub": 1,
+      "unlock_condition_timeline_sub_sub": 7,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "54": {
+    "m_terada": {
+      "category": 18,
+      "name": "Yukio Terada",
+      "explanation": "Current fifth chairman of the Tojo Clan, his position was\r\nentrusted to him by Kiryu. Formerly the chief of HQ of the\r\nlargest yakuza organization in Kansai, the Omi Alliance.\r\nHe is a man who strives for peace and lives life\r\nthrough his intellect. Currently, he endeavors to get the nearly\r\ndestroyed Tojo Clan back on its feet. He is also spearheading\r\nthe Tojo Clan Reformation, a policy in which members are\r\nrewarded or replaced based on their merit as yakuza.",
+      "picture": 4585,
+      "unlock_condition_timeline": 25,
+      "unlock_condition_timeline_sub": 1,
+      "unlock_condition_timeline_sub_sub": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "55": {
+    "m_kashiwagi": {
+      "category": 18,
+      "name": "Osamu Kashiwagi",
+      "explanation": "Second patriarch of the Kazama Family, a Tojo Clan subsidiary.\r\nAs a man who has inherited Kazama's rank after his death,\r\nhe is vital to the current Tojo Clan executives. To Kiryu, he is\r\na friend that he's known since way back, and a man he can\r\ncount on for his honest and logical thought process. Presently,\r\nhe watches over the city from the heights of the Millennium\r\nTower, having moved the Kazama Family office to the top floor.",
+      "picture": 4568,
+      "unlock_condition_timeline": 25,
+      "unlock_condition_timeline_sub": 1,
+      "unlock_condition_timeline_sub_sub": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "56": {
+    "m_uematsu": {
+      "category": 18,
+      "name": "Akinobu Uematsu",
+      "explanation": "Patriarch of the Uematsu Family, a Tojo Clan subsidiary. His\r\nskills were valued by Terada, and he was hastily promoted to\r\npatriarch. He comes across as a distinctly militant yakuza in\r\nthe vein of the now-deceased Futoshi Shimano. Though he may\r\nseem oppressive, he also has a sympathetic side, particularly\r\nfor those who serve under him. As such, he is popular with\r\nmany people around him and is expected to carry the future\r\nof the Tojo Clan. However, there are also those who envy his\r\nsudden promotion and would rather see him ousted from his post.",
+      "picture": 4586,
+      "unlock_condition_timeline": 25,
+      "unlock_condition_timeline_sub": 1,
+      "unlock_condition_timeline_sub_sub": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "57": {
+    "m_iibuchi": {
+      "category": 18,
+      "name": "Kei Ibuchi",
+      "explanation": "Patriarch of the Ibuchi Family, a Tojo Clan subsidiary.\r\nUsed to work for a large foreign consulting firm but is now\r\nthe exclusive consultant of the Tojo Clan. Recruited for his\r\ndistinguished credentials, his sharp wit and quick thinking\r\nearned Terada's trust, propelling him into a patriarch's\r\nposition. Additionally, he has entered a mutually advantageous\r\nrelationship with fellow freshly appointed patriarch Uematsu\r\ndespite how different they seem on the surface.",
+      "picture": 4565,
+      "unlock_condition_timeline": 25,
+      "unlock_condition_timeline_sub": 1,
+      "unlock_condition_timeline_sub_sub": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "58": {
+    "m_ryuuji": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "59": {
+    "m_jin": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "60": {
+    "m_takashima": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "61": {
+    "m_sengoku": {
+      "category": 0,
+      "picture": 0,
+      "unlock_condition_timeline": 0,
+      "unlock_condition_timeline_sub": 0,
+      "unlock_condition_timeline_sub_sub": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "62": {
+    "m_hanaya": {
+      "category": 20,
+      "name": "The Florist of Sai",
+      "explanation": "The legendary information dealer who earned his name by\r\npassing intel on bouquet cards. A former police officer, he\r\nwas prosecuted for corruption by Date in the past. He then\r\ntook charge of Purgatory, the haunt for all homeless folks in\r\nKamurocho, and acted behind the scenes as an information\r\ndealer. However, after many twists and turns over the course\r\nof several years, he apparently returned to the force. With\r\nnobody left to properly run Purgatory since his departure,\r\nhe is considering handing it over to Majima.",
+      "picture": 4564,
+      "unlock_condition_timeline": 25,
+      "unlock_condition_timeline_sub": 2,
+      "unlock_condition_timeline_sub_sub": 7,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "63": {
+    "m_makoto": {
+      "category": 21,
+      "name": "Makoto Tateyama",
+      "explanation": "An employee at Hogushi Kaikan Massage. In the past, she was\r\ndeceived and held against her will for a long time, developing\r\na psychogenic blindness in the process. 18 years ago, she owned\r\nthe infamous Empty Lot and was targeted by many organizations\r\nas a result. However, she was saved by Majima, and her vision was\r\nslowly restored. She currently works at the recently reopened\r\nHogushi Kaikan Massage in addition to raising her child.\r\nHowever, due to her husband's job, she is quitting the place\r\nthis week and plans to move with her family overseas.",
+      "picture": 4574,
+      "unlock_condition_timeline": 25,
+      "unlock_condition_timeline_sub": 2,
+      "unlock_condition_timeline_sub_sub": 18,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 63
+    }
+  }
+}
